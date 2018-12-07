@@ -1,0 +1,1699 @@
+﻿Log file open, 12/07/18 08:38:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.187291
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.138s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.07-13.38.55:364][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.07-13.38.55:364][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.07-13.38.55:383][  0]LogHAL: Display: Platform has ~ 8 GB [8425320448 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.07-13.38.55:383][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.07-13.38.55:383][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.07-13.38.55:383][  0]LogInit: Computer: LAPTOP-Q6FHCA5H
+[2018.12.07-13.38.55:383][  0]LogInit: User: WilliamYao
+[2018.12.07-13.38.55:383][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.12.07-13.38.55:383][  0]LogInit: High frequency timer resolution =24.000000 MHz
+[2018.12.07-13.38.55:383][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2018.12.07-13.38.55:383][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.07-13.38.55:383][  0]LogMemory: Process Physical Memory: 102.38 MB used, 102.38 MB peak
+[2018.12.07-13.38.55:383][  0]LogMemory: Process Virtual Memory: 86.14 MB used, 86.14 MB peak
+[2018.12.07-13.38.55:383][  0]LogMemory: Physical Memory: 4182.36 MB used,  3852.66 MB free, 8035.01 MB total
+[2018.12.07-13.38.55:383][  0]LogMemory: Virtual Memory: 4623.18 MB used,  3852.66 MB free, 134217728.00 MB total
+[2018.12.07-13.38.55:405][  0]LogInit: Using OS detected language (en-US).
+[2018.12.07-13.38.55:405][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.07-13.38.55:406][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.07-13.38.55:884][  0]LogStreaming: Display: Took  0.479s to InitEngineTextLocalization.
+[2018.12.07-13.38.55:884][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.07-13.38.55:945][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.07-13.38.55:945][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.07-13.38.56:293][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.07-13.38.56:293][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.07-13.38.56:308][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.12.07-13.38.56:308][  0]LogD3D11RHI:       128/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.12.07-13.38.56:433][  0]LogD3D11RHI:    1. 'AMD Radeon (TM) R7 M460' (Feature Level 11_0)
+[2018.12.07-13.38.56:433][  0]LogD3D11RHI:       2039/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2018.12.07-13.38.56:437][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.07-13.38.56:437][  0]LogD3D11RHI:       0/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.07-13.38.56:437][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2018.12.07-13.38.56:446][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.07-13.38.56:446][  0]LogD3D11RHI:     GPU DeviceId: 0x6900 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.07-13.38.56:447][  0]LogWindows: EnumDisplayDevices:
+[2018.12.07-13.38.56:447][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.12.07-13.38.56:447][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.12.07-13.38.56:448][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.12.07-13.38.56:448][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.12.07-13.38.56:448][  0]LogD3D11RHI:     Adapter Name: AMD Radeon (TM) R7 M460
+[2018.12.07-13.38.56:448][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.12.07-13.38.56:448][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.12.07-13.38.56:448][  0]LogRHI: Texture pool is 1427 MB (70% of 2039 MB)
+[2018.12.07-13.38.56:554][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.07-13.38.56:572][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.12.07-13.38.56:574][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Intermediate/Shaders/WorkingDirectory/9404/).
+[2018.12.07-13.38.56:574][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/William Yao/AppData/Local/Temp/UnrealShaderWorkingDir/278F0D514C90A9C9D58A6AB46FCDA995/'.
+[2018.12.07-13.38.56:953][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.07-13.38.56:968][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.07-13.38.56:982][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.07-13.38.56:996][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.07-13.38.57:009][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.07-13.38.57:023][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.07-13.38.57:037][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.07-13.38.57:051][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.07-13.38.57:058][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.07-13.38.57:155][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-13.38.57:155][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-13.38.57:155][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-13.38.57:155][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-13.38.57:155][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-13.38.57:155][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-13.38.57:155][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-13.38.57:155][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-13.38.57:155][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-13.38.57:155][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-13.38.57:155][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-13.38.57:155][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-13.38.57:155][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-13.38.57:155][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-13.38.57:155][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-13.38.57:155][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-13.38.57:155][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-13.38.57:155][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-13.38.57:157][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.07-13.38.57:230][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.07-13.38.57:230][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.07-13.38.57:267][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.07-13.38.57:267][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.07-13.38.57:284][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.07-13.38.57:301][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.07-13.38.57:313][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.07-13.38.57:326][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.07-13.38.57:335][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.07-13.38.57:336][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.07-13.38.57:401][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.07-13.38.57:401][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.07-13.38.57:401][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.07-13.38.58:680][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.07-13.38.58:752][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/William Yao/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.07-13.38.58:752][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/William Yao/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.07-13.38.58:753][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.07-13.38.58:753][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.07-13.38.58:753][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.07-13.38.58:753][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.07-13.38.58:768][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.07-13.38.58:781][  0]LogDerivedDataCache: Using Local data cache path C:/Users/William Yao/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.07-13.38.58:781][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.07-13.38.58:781][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.07-13.38.58:812][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.07-13.38.58:813][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.07-13.38.58:814][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.07-13.38.58:904][  0]LogAssetRegistry: FAssetRegistry took 0.0296 seconds to start up
+[2018.12.07-13.38.59:423][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.07-13.38.59:645][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.07-13.38.59:651][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.07-13.38.59:651][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.07-13.38.59:652][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.07-13.38.59:652][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.07-13.38.59:682][  0]LogNetVersion: MyProject2 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1482868377)
+[2018.12.07-13.39.00:588][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.118964 seconds
+[2018.12.07-13.39.00:594][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.07-13.39.00:594][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.12.07-13.39.00:594][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.07-13.39.01:619][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.07-13.39.01:632][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.07-13.39.01:804][  0]SourceControl: Source control is disabled
+[2018.12.07-13.39.01:804][  0]SourceControl: Source control is disabled
+[2018.12.07-13.39.01:805][  0]SourceControl: Source control is disabled
+[2018.12.07-13.39.01:806][  0]SourceControl: Source control is disabled
+[2018.12.07-13.39.01:975][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.07-13.39.02:023][  0]LogOcInput: OculusInput pre-init called
+[2018.12.07-13.39.02:108][  0]LogEngine: Initializing Engine...
+[2018.12.07-13.39.02:108][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.07-13.39.02:110][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.07-13.39.02:110][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.07-13.39.02:110][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.07-13.39.02:110][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.07-13.39.02:414][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.07-13.39.02:430][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.07-13.39.02:454][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-13.39.03:495][  0]LogInit: FAudioDevice initialized.
+[2018.12.07-13.39.03:496][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.07-13.39.03:591][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/William Yao/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.07-13.39.03:607][  0]LogInit: Texture streaming: Enabled
+[2018.12.07-13.39.03:626][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.07-13.39.03:655][  0]LogInit: Transaction tracking system initialized
+[2018.12.07-13.39.03:682][  0]BlueprintLog: New page: Editor Load
+[2018.12.07-13.39.03:776][  0]LocalizationService: Localization service is disabled
+[2018.12.07-13.39.04:222][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.07-13.39.04:222][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.07-13.39.04:222][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.07-13.39.04:223][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.07-13.39.04:223][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.07-13.39.04:223][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.07-13.39.04:224][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.07-13.39.04:458][  0]LogFileCache: Scanning file cache for directory 'C:/Users/William Yao/Desktop/Empathy/MyProject2/Content/' took 0.04s
+[2018.12.07-13.39.04:459][  0]SourceControl: Source control is disabled
+[2018.12.07-13.39.04:459][  0]Cmd: MAP LOAD FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Start.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.07-13.39.04:468][  0]LightingResults: New page: Lighting Build
+[2018.12.07-13.39.04:475][  0]MapCheck: New page: Map Check
+[2018.12.07-13.39.04:475][  0]LightingResults: New page: Lighting Build
+[2018.12.07-13.39.05:650][  0]LogAIModule: Creating AISystem for world Start
+[2018.12.07-13.39.05:652][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.07-13.39.05:678][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.07-13.39.05:753][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.286ms to complete.
+[2018.12.07-13.39.05:754][  0]LogFileHelpers: Loading map 'Start' took 1.295
+[2018.12.07-13.39.05:914][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-13.39.05:921][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-13.39.05:928][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-13.39.05:935][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-13.39.05:953][  0]LogCollectionManager: Loaded 0 collections in 0.002215 seconds
+[2018.12.07-13.39.06:024][  0]LogFileCache: Scanning file cache for directory 'C:/Users/William Yao/Desktop/Empathy/MyProject2/Saved/Collections/' took 0.01s
+[2018.12.07-13.39.06:024][  0]LogFileCache: Scanning file cache for directory 'C:/Users/William Yao/Desktop/Empathy/MyProject2/Content/Developers/WilliamYao/Collections/' took 0.01s
+[2018.12.07-13.39.06:024][  0]LogFileCache: Scanning file cache for directory 'C:/Users/William Yao/Desktop/Empathy/MyProject2/Content/Collections/' took 0.01s
+[2018.12.07-13.39.06:024][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000004 seconds
+[2018.12.07-13.39.06:039][  0]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 2572 classes and 603 folders.
+[2018.12.07-13.39.06:056][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.07-13.39.06:554][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.07-13.39.06:570][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.12.07-13.39.06:650][  0]LogSlate: Took 0.000339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.07-13.39.06:653][  0]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.07-13.39.06:673][  0]LogSlate: Took 0.006442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.07-13.39.06:850][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.12.07-13.39.07:180][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.07-13.39.07:180][  0]LogLoad: (Engine Initialization) Total time: 14.57 seconds
+[2018.12.07-13.39.07:180][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.07-13.39.07:200][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.07-13.39.07:225][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.07-13.39.07:258][  0]LogSlate: Took 0.007345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.07-13.39.07:319][  2]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 2. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2018.12.07-13.39.07:480][  4]LogAssetRegistry: Asset discovery search completed in 8.5982 seconds
+[2018.12.07-13.39.07:483][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2018.12.07-13.39.07:483][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000239 seconds (updated 0 objects)
+[2018.12.07-13.39.13:590][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.39.18:300][393]LogSlate: Took 0.000441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.07-13.39.20:016][393]LogAIModule: Creating AISystem for world Classroom
+[2018.12.07-13.39.20:071][393]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Classroom.Classroom
+[2018.12.07-13.39.20:105][393]Cmd: MAP LOAD FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Classroom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.07-13.39.20:105][393]LightingResults: New page: Lighting Build
+[2018.12.07-13.39.20:105][393]LoadErrors: New page: Loading map: Classroom.umap
+[2018.12.07-13.39.20:106][393]MapCheck: New page: Map Check
+[2018.12.07-13.39.20:106][393]LightingResults: New page: Lighting Build
+[2018.12.07-13.39.20:166][393]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.07-13.39.20:252][393]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.07-13.39.20:367][393]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 115.314ms to complete.
+[2018.12.07-13.39.20:370][393]LogFileHelpers: Loading map 'Classroom' took 0.266
+[2018.12.07-13.39.26:821][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door)
+[2018.12.07-13.39.29:021][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.39.29:529][630]LogSlate: Took 0.011295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.07-13.39.55:096][509]LogSlate: Window 'Select Path' being destroyed
+[2018.12.07-13.40.11:172][929]LogSlate: Window 'Select Path' being destroyed
+[2018.12.07-13.40.11:279][929]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Door_Blueprint.Door_Blueprint
+[2018.12.07-13.40.12:350][929]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.12.07-13.40.15:507][964]LogSlate: Took 0.012552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.07-13.43.01:773][844]LogSlate: Window 'Door_Blueprint*' being destroyed
+[2018.12.07-13.43.01:783][844]LogSlate: Window 'Door_Blueprint*' being destroyed
+[2018.12.07-13.43.09:287][142]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2018.12.07-13.43.25:731][463]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Cafeteria) is flushing async loading
+[2018.12.07-13.43.25:732][463]LogStreaming: Display: Flushing async loaders.
+[2018.12.07-13.43.26:827][463]LogSlate: Window 'Open Level' being destroyed
+[2018.12.07-13.44.12:693][906]Cmd: TRANSACTION UNDO
+[2018.12.07-13.44.12:693][906]LogEditorTransaction: Undo Toggle Level Visibility
+[2018.12.07-13.44.14:486][966]Cmd: TRANSACTION UNDO
+[2018.12.07-13.44.14:486][966]LogEditorTransaction: Undo Replace Actor(s) with blueprint
+[2018.12.07-13.44.15:524][978]Cmd: TRANSACTION UNDO
+[2018.12.07-13.44.15:524][978]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.07-13.44.20:310][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-13.44.35:722][428]LogSlate: Window 'Remove Level' being destroyed
+[2018.12.07-13.44.35:767][428]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-13.44.35:879][428]MapCheck: New page: Map Check
+[2018.12.07-13.44.35:879][428]LightingResults: New page: Lighting Build
+[2018.12.07-13.44.37:343][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.44.57:034][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.44.57:140][934]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-13.44.57:196][934]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Classroom.Classroom:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom' with GeneratedClass '/Game/Maps/Classroom.Classroom_C' with ClassGeneratedBy '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom'
+[2018.12.07-13.44.57:196][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-13.44.57:209][934]PIE: New page: PIE session: Classroom (Dec 7, 2018, 3:44:57 AM)
+[2018.12.07-13.44.57:209][934]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Classroom
+[2018.12.07-13.44.57:254][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045010s)
+[2018.12.07-13.44.57:255][934]LogAIModule: Creating AISystem for world Classroom
+[2018.12.07-13.44.57:255][934]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2018.12.07-13.44.57:255][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Classroom.Classroom to /Game/Maps/UEDPIE_0_Classroom.Classroom (0.046291s)
+[2018.12.07-13.44.57:289][934]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-13.44.58:312][934]LogInit: FAudioDevice initialized.
+[2018.12.07-13.44.58:355][934]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-13.44.58:371][934]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Classroom.Classroom up for play (max tick rate 60) at 2018.12.07-08.44.58
+[2018.12.07-13.44.58:375][934]LogWorld: Bringing up level for play took: 0.016896
+[2018.12.07-13.44.58:401][934]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2018.12.07-13.44.58:406][934]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Classroom 2.168
+[2018.12.07-13.44.58:407][934]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Classroom.Classroom:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom' with GeneratedClass '/Game/Maps/Classroom.Classroom_C' with ClassGeneratedBy '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom'
+[2018.12.07-13.45.08:229][207]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Classroom.Classroom:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom' with GeneratedClass '/Game/Maps/Classroom.Classroom_C' with ClassGeneratedBy '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom'
+[2018.12.07-13.45.08:229][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-13.45.08:303][207]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-13.45.08:303][207]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Classroom.Classroom:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom' with GeneratedClass '/Game/Maps/Classroom.Classroom_C' with ClassGeneratedBy '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom'
+[2018.12.07-13.45.08:338][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-13.45.08:384][208]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.12.07-13.45.15:009][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door)
+[2018.12.07-13.45.17:952][442]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.45.25:115][623]LogSlate: Window 'Select Path' being destroyed
+[2018.12.07-13.45.25:260][623]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Door_Blueprint.Door_Blueprint
+[2018.12.07-13.47.21:955][484]BlueprintLog: New page: Compile Door_Blueprint
+[2018.12.07-13.47.25:459][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Door_Blueprint" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Door_Blueprint.uasset" SILENT=true
+[2018.12.07-13.47.25:501][559]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Door_BlueprintE23243CA46B40AA14AD4ACB209ED5990.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Door_Blueprint.uasset'
+[2018.12.07-13.47.30:319][680]LogSlate: Window 'Door_Blueprint' being destroyed
+[2018.12.07-13.47.30:367][680]LogSlate: Window 'Door_Blueprint' being destroyed
+[2018.12.07-13.47.35:120][805]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-13.47.35:167][805]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Classroom.Classroom:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom' with GeneratedClass '/Game/Maps/Classroom.Classroom_C' with ClassGeneratedBy '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom'
+[2018.12.07-13.47.35:167][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-13.47.35:167][805]PIE: New page: PIE session: Classroom (Dec 7, 2018, 3:47:35 AM)
+[2018.12.07-13.47.35:167][805]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Classroom
+[2018.12.07-13.47.35:204][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037045s)
+[2018.12.07-13.47.35:206][805]LogAIModule: Creating AISystem for world Classroom
+[2018.12.07-13.47.35:207][805]LogPlayLevel: PIE: World Init took: (0.002216s)
+[2018.12.07-13.47.35:207][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Classroom.Classroom to /Game/Maps/UEDPIE_0_Classroom.Classroom (0.039669s)
+[2018.12.07-13.47.35:247][805]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-13.47.36:262][805]LogInit: FAudioDevice initialized.
+[2018.12.07-13.47.36:295][805]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-13.47.36:310][805]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Classroom.Classroom up for play (max tick rate 60) at 2018.12.07-08.47.36
+[2018.12.07-13.47.36:312][805]LogWorld: Bringing up level for play took: 0.015997
+[2018.12.07-13.47.36:327][805]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Classroom 2.089
+[2018.12.07-13.47.36:328][805]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Classroom.Classroom:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom' with GeneratedClass '/Game/Maps/Classroom.Classroom_C' with ClassGeneratedBy '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom'
+[2018.12.07-13.47.41:083][939]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Classroom.Classroom:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom' with GeneratedClass '/Game/Maps/Classroom.Classroom_C' with ClassGeneratedBy '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom'
+[2018.12.07-13.47.41:084][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-13.47.41:164][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-13.47.41:164][939]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Classroom.Classroom:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom' with GeneratedClass '/Game/Maps/Classroom.Classroom_C' with ClassGeneratedBy '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom'
+[2018.12.07-13.47.41:201][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-13.47.41:259][940]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.12.07-13.47.52:276][253]LogEditorViewport: Clicking on Actor (LMB): Door_Blueprint_C (Door_Blueprint)
+[2018.12.07-13.47.53:785][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.47.56:349][359]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Door_Blueprint.Door_Blueprint
+[2018.12.07-13.49.10:026][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Door_Blueprint" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Door_Blueprint.uasset" SILENT=true
+[2018.12.07-13.49.10:101][259]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Door_BlueprintDEA9330E420F0E0F3D1A5AB8CBFE3354.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Door_Blueprint.uasset'
+[2018.12.07-13.49.12:412][324]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-13.49.12:461][324]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Classroom.Classroom:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom' with GeneratedClass '/Game/Maps/Classroom.Classroom_C' with ClassGeneratedBy '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom'
+[2018.12.07-13.49.12:461][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-13.49.12:461][324]PIE: New page: PIE session: Classroom (Dec 7, 2018, 3:49:12 AM)
+[2018.12.07-13.49.12:461][324]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Classroom
+[2018.12.07-13.49.12:502][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040873s)
+[2018.12.07-13.49.12:504][324]LogAIModule: Creating AISystem for world Classroom
+[2018.12.07-13.49.12:504][324]LogPlayLevel: PIE: World Init took: (0.001852s)
+[2018.12.07-13.49.12:504][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Classroom.Classroom to /Game/Maps/UEDPIE_0_Classroom.Classroom (0.043120s)
+[2018.12.07-13.49.12:542][324]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-13.49.13:557][324]LogInit: FAudioDevice initialized.
+[2018.12.07-13.49.13:592][324]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-13.49.13:611][324]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Classroom.Classroom up for play (max tick rate 60) at 2018.12.07-08.49.13
+[2018.12.07-13.49.13:613][324]LogWorld: Bringing up level for play took: 0.019743
+[2018.12.07-13.49.13:627][324]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Classroom 1.389
+[2018.12.07-13.49.13:628][324]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Classroom.Classroom:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom' with GeneratedClass '/Game/Maps/Classroom.Classroom_C' with ClassGeneratedBy '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom'
+[2018.12.07-13.49.22:128][560]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Classroom.Classroom:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom' with GeneratedClass '/Game/Maps/Classroom.Classroom_C' with ClassGeneratedBy '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom'
+[2018.12.07-13.49.22:129][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-13.49.22:207][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-13.49.22:208][560]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Classroom.Classroom:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom' with GeneratedClass '/Game/Maps/Classroom.Classroom_C' with ClassGeneratedBy '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom'
+[2018.12.07-13.49.22:245][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-13.49.22:307][561]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.12.07-13.49.23:913][607]LogEditorViewport: Clicking on Actor (LMB): Door_Blueprint_C (Door_Blueprint)
+[2018.12.07-13.49.25:055][636]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-13.49.26:348][672]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-13.49.33:591][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.49.37:956][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.49.47:892][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-13.49.53:652][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.50.24:391][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.51.03:860][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.51.17:374][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.51.17:479][785]BlueprintLog: New page: Compile Door_Blueprint
+[2018.12.07-13.51.19:236][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Door_Blueprint" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Door_Blueprint.uasset" SILENT=true
+[2018.12.07-13.51.19:291][811]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Door_BlueprintC4A25B6B42D86FB3B9ACFE822E240340.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Door_Blueprint.uasset'
+[2018.12.07-13.51.20:595][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.51.20:699][840]LogSlate: Window 'Door_Blueprint' being destroyed
+[2018.12.07-13.51.20:760][840]LogSlate: Window 'Door_Blueprint' being destroyed
+[2018.12.07-13.51.21:985][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.51.22:020][874]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-13.51.22:073][874]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Classroom.Classroom:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom' with GeneratedClass '/Game/Maps/Classroom.Classroom_C' with ClassGeneratedBy '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom'
+[2018.12.07-13.51.22:073][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-13.51.22:073][874]PIE: New page: PIE session: Classroom (Dec 7, 2018, 3:51:22 AM)
+[2018.12.07-13.51.22:073][874]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Classroom
+[2018.12.07-13.51.22:112][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039368s)
+[2018.12.07-13.51.22:115][874]LogAIModule: Creating AISystem for world Classroom
+[2018.12.07-13.51.22:116][874]LogPlayLevel: PIE: World Init took: (0.003452s)
+[2018.12.07-13.51.22:116][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Classroom.Classroom to /Game/Maps/UEDPIE_0_Classroom.Classroom (0.043291s)
+[2018.12.07-13.51.22:156][874]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-13.51.23:172][874]LogInit: FAudioDevice initialized.
+[2018.12.07-13.51.23:208][874]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-13.51.23:222][874]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Classroom.Classroom up for play (max tick rate 60) at 2018.12.07-08.51.23
+[2018.12.07-13.51.23:224][874]LogWorld: Bringing up level for play took: 0.015473
+[2018.12.07-13.51.23:239][874]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Classroom 1
+[2018.12.07-13.51.23:239][874]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Classroom.Classroom:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom' with GeneratedClass '/Game/Maps/Classroom.Classroom_C' with ClassGeneratedBy '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom'
+[2018.12.07-13.51.26:850][976]LogNet: Browse: /Game/Maps/Cafeteria
+[2018.12.07-13.51.26:886][976]LogLoad: LoadMap: /Game/Maps/Cafeteria
+[2018.12.07-13.51.28:478][976]LogAIModule: Creating AISystem for world Cafeteria
+[2018.12.07-13.51.28:478][976]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-13.51.28:494][976]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMeshComponent0. Please use the Teleport flag
+[2018.12.07-13.51.28:496][976]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Cafeteria.Cafeteria up for play (max tick rate 60) at 2018.12.07-08.51.28
+[2018.12.07-13.51.28:498][976]LogWorld: Bringing up level for play took: 0.017429
+[2018.12.07-13.51.28:501][976]LogLoad: Took 1.615048 seconds to LoadMap(/Game/Maps/Cafeteria)
+[2018.12.07-13.51.35:782][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Classroom.Classroom:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom' with GeneratedClass '/Game/Maps/Classroom.Classroom_C' with ClassGeneratedBy '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom'
+[2018.12.07-13.51.35:783][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-13.51.35:850][157]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-13.51.35:850][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Classroom.Classroom:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom' with GeneratedClass '/Game/Maps/Classroom.Classroom_C' with ClassGeneratedBy '/Game/Maps/Classroom.Classroom:PersistentLevel.Classroom'
+[2018.12.07-13.51.35:889][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-13.51.35:948][158]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.12.07-13.51.46:819][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.51.46:947][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Classroom" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Classroom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.07-13.51.47:570][451]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Classroom018C35734FA1255200CD0DB11A603247.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Classroom.umap'
+[2018.12.07-13.51.47:659][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Classroom_BuiltData" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Classroom_BuiltData.uasset" SILENT=true
+[2018.12.07-13.51.48:743][451]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Classroom_BuiltData6AD63CCC4F9A52D69D8E7899071E2EBE.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Classroom_BuiltData.uasset'
+[2018.12.07-13.51.50:697][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.52.01:950][762]LogEditorViewport: Clicking on Actor (LMB): Door_Blueprint_C (Door_Blueprint)
+[2018.12.07-13.52.05:017][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.52.20:989][257]LogAIModule: Creating AISystem for world Cafeteria
+[2018.12.07-13.52.21:007][257]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Cafeteria.Cafeteria
+[2018.12.07-13.52.22:776][257]LogSlate: Window 'Save Content' being destroyed
+[2018.12.07-13.52.25:370][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Classroom" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Classroom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.07-13.52.25:955][257]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Classroom8A2FDC584E28D9C1A9812BAFBB42C144.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Classroom.umap'
+[2018.12.07-13.52.26:019][257]LogFileHelpers: Saving map 'Classroom' took 3.229
+[2018.12.07-13.52.26:086][257]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Door_Blueprint3F6C905047E13FD776A329A7098145FB.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/Blueprints/Door_Blueprint.uasset'
+[2018.12.07-13.52.26:090][257]Cmd: MAP LOAD FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Cafeteria.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.07-13.52.26:091][257]LightingResults: New page: Lighting Build
+[2018.12.07-13.52.26:091][257]LoadErrors: New page: Loading map: Cafeteria.umap
+[2018.12.07-13.52.26:106][257]MapCheck: New page: Map Check
+[2018.12.07-13.52.26:106][257]LightingResults: New page: Lighting Build
+[2018.12.07-13.52.26:188][257]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.07-13.52.26:292][257]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.07-13.52.26:445][257]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 152.837ms to complete.
+[2018.12.07-13.52.26:449][257]LogFileHelpers: Loading map 'Cafeteria' took 0.359
+[2018.12.07-13.52.46:087][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door3)
+[2018.12.07-13.52.53:304][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.53.07:849][276]LogSlate: Window 'Select Path' being destroyed
+[2018.12.07-13.53.08:000][276]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ClassroomBP.ClassroomBP
+[2018.12.07-13.53.12:674][347]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-13.53.16:988][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-13.53.21:867][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.53.27:372][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.53.56:018][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.54.13:182][462]LogSlate: Window 'Levels' being destroyed
+[2018.12.07-13.54.13:236][462]LogSlate: Window 'Levels' being destroyed
+[2018.12.07-13.54.19:110][594]LogSlate: Window 'ClassroomBP*' being destroyed
+[2018.12.07-13.54.47:988][680]BlueprintLog: New page: Compile ClassroomBP
+[2018.12.07-13.54.48:922][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ClassroomBP" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ClassroomBP.uasset" SILENT=true
+[2018.12.07-13.54.48:957][716]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/ClassroomBPCC46FE0F4D76E44D37C1778AFD6AA5C1.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ClassroomBP.uasset'
+[2018.12.07-13.54.57:555][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door)
+[2018.12.07-13.54.59:189][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.55.30:537][806]LogSlate: Window 'Select Path' being destroyed
+[2018.12.07-13.55.33:655][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.12.07-13.55.34:934][911]LogEditorViewport: Clicking on Actor (LMB): ClassroomBP_C (ClassroomBP)
+[2018.12.07-13.55.38:197][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door)
+[2018.12.07-13.55.40:084][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.55.53:396][367]LogSlate: Window 'Select Path' being destroyed
+[2018.12.07-13.56.15:096][888]LogEditorViewport: Clicking on Actor (LMB): ClassroomBP_C (ClassroomBP)
+[2018.12.07-13.56.18:743][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.56.30:005][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door)
+[2018.12.07-13.56.35:301][385]LogEditorViewport: Clicking on Actor (LMB): ClassroomBP_C (ClassroomBP)
+[2018.12.07-13.56.36:592][414]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-13.56.41:293][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-13.56.52:490][239]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:862).
+[2018.12.07-13.57.02:502][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door)
+[2018.12.07-13.57.03:632][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.57.13:577][936]LogSlate: Window 'Select Path' being destroyed
+[2018.12.07-13.57.13:728][936]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ClassroomBP2.ClassroomBP2
+[2018.12.07-13.57.18:139][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.57.37:415][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.57.58:461][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.58.10:515][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ClassroomBP2" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ClassroomBP2.uasset" SILENT=true
+[2018.12.07-13.58.10:550][845]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/ClassroomBP238E6853B411A02B9AB461B830CE22189.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ClassroomBP2.uasset'
+[2018.12.07-13.58.21:833][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.12.07-13.58.22:399][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door2)
+[2018.12.07-13.58.25:077][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.58.33:680][422]LogSlate: Window 'Select Path' being destroyed
+[2018.12.07-13.58.33:845][422]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RecessBP.RecessBP
+[2018.12.07-13.58.39:841][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.59.06:357][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.59.09:744][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RecessBP" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/RecessBP.uasset" SILENT=true
+[2018.12.07-13.59.09:779][513]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/RecessBPB8F7BAA2453EDAD6248F33915C27DE9C.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/RecessBP.uasset'
+[2018.12.07-13.59.10:838][576]BlueprintLog: New page: Compile RecessBP
+[2018.12.07-13.59.11:742][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RecessBP" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/RecessBP.uasset" SILENT=true
+[2018.12.07-13.59.11:811][611]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/RecessBPCE94B5D8488384E6BAEB4EABE0387C2F.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/RecessBP.uasset'
+[2018.12.07-13.59.17:803][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door4)
+[2018.12.07-13.59.19:901][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.59.28:762][ 80]LogSlate: Window 'Select Path' being destroyed
+[2018.12.07-13.59.28:917][ 80]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RecessBP2.RecessBP2
+[2018.12.07-13.59.49:919][658]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-13.59.53:410][856]BlueprintLog: New page: Compile RecessBP2
+[2018.12.07-13.59.54:521][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RecessBP2" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/RecessBP2.uasset" SILENT=true
+[2018.12.07-13.59.54:552][901]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/RecessBP2EA5477C44DA73DFA20DDA4B8A5732C57.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/RecessBP2.uasset'
+[2018.12.07-13.59.57:550][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cafeteria" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Cafeteria.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.07-13.59.57:765][ 12]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/CafeteriaB77E468B4F2F9A2AFB70D1AF28EE9289.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Cafeteria.umap'
+[2018.12.07-13.59.57:835][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cafeteria_BuiltData" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Cafeteria_BuiltData.uasset" SILENT=true
+[2018.12.07-13.59.58:479][ 12]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Cafeteria_BuiltData497815204B6450185FD2DE9FAD0DDCC8.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Cafeteria_BuiltData.uasset'
+[2018.12.07-13.59.59:497][ 38]MapCheck: New page: Map Check
+[2018.12.07-13.59.59:582][ 38]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.07-13.59.59:582][ 38]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.07-13.59.59:732][ 38]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_AssetPlatform, compiling. 
+[2018.12.07-13.59.59:746][ 38]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.07-13.59.59:746][ 38]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.12.07-13.59.59:754][ 38]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Pine, compiling. 
+[2018.12.07-13.59.59:765][ 38]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.07-13.59.59:765][ 38]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.07-13.59.59:765][ 38]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Oak, compiling. 
+[2018.12.07-13.59.59:776][ 38]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2018.12.07-13.59.59:787][ 38]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.12.07-13.59.59:797][ 38]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2018.12.07-13.59.59:805][ 38]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Steel, compiling. 
+[2018.12.07-13.59.59:813][ 38]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy FullyRiggedBoyWithAnimations_Boy_initialShadingGroup1_BaseColor_Mat, compiling. 
+[2018.12.07-13.59.59:824][ 38]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy FullyRiggedGirlWithAnimations_lambert2_BaseColor_Mat, compiling. 
+[2018.12.07-13.59.59:837][ 38]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lydia_Mat, compiling. 
+[2018.12.07-13.59.59:852][ 38]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy defaultboy_Mat, compiling. 
+[2018.12.07-13.59.59:865][ 38]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy reggie_Mat, compiling. 
+[2018.12.07-13.59.59:878][ 38]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy dustin_Mat, compiling. 
+[2018.12.07-13.59.59:892][ 38]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy zack_Mat, compiling. 
+[2018.12.07-13.59.59:907][ 38]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy LunchBag_initialShadingGroup_BaseColor_Mat, compiling. 
+[2018.12.07-13.59.59:923][ 38]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Sandwich_initialShadingGroup_BaseColor_Mat, compiling. 
+[2018.12.07-13.59.59:938][ 38]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy jerkchicken_Mat, compiling. 
+[2018.12.07-13.59.59:955][ 38]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy classmat, compiling. 
+[2018.12.07-13.59.59:970][ 38]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy recessdoor_Mat, compiling. 
+[2018.12.07-14.00.03:260][ 38]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.12.07-14.00.03:260][ 38]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.12.07-14.00.03:260][ 38]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.12.07-14.00.03:260][ 38]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.07-14.00.03:260][ 38]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.07-14.00.03:260][ 38]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.07-14.00.03:260][ 38]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.07-14.00.03:260][ 38]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.07-14.00.03:260][ 38]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.07-14.00.03:260][ 38]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.07-14.00.03:260][ 38]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.07-14.00.03:260][ 38]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.07-14.00.03:260][ 38]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.07-14.00.03:260][ 38]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.07-14.00.03:260][ 38]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.07-14.00.03:260][ 38]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.07-14.00.03:260][ 38]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.07-14.00.03:260][ 38]TextureStreamingBuild: Display: Compiling optional shaders took 3.534 seconds.
+[2018.12.07-14.00.03:301][ 38]LogLevel: Display: Export Material TexCoord Scales took 0.040 seconds.
+[2018.12.07-14.00.03:366][ 38]TextureStreamingBuild: Display: Build Texture Streaming took 0.064 seconds.
+[2018.12.07-14.00.03:408][ 38]LightingResults: New page: Lighting Build - Dec 7, 2018, 4:00:03 AM
+[2018.12.07-14.00.03:514][ 38]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.07-14.00.03:748][ 38]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.07-14.00.03:893][ 38]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.07-14.00.04:975][ 38]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.07-14.00.04:975][ 38]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9404
+[2018.12.07-14.00.10:194][ 38]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.12.07-14.00.10:195][ 38]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.07-14.00.10:195][ 38]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.07-14.00.10:195][ 38]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.07-14.00.10:195][ 38]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.07-14.00.10:195][ 38]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.07-14.00.10:433][ 38]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.07-14.00.10:433][ 38]MapCheck: New page: Cafeteria - Dec 7, 2018, 4:00:10 AM
+[2018.12.07-14.00.10:452][ 38]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.12.07-14.00.10:454][ 38]MapCheck: Warning: FullyRiggedGirlSitWithAnimation_PhysicsAsset_2 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.12.07-14.00.10:455][ 38]MapCheck: Warning: FullyRiggedGirlSitWithAnimation_PhysicsAsset_2 Skeletal mesh actor has NULL SkeletalMesh property 
+[2018.12.07-14.00.10:456][ 38]MapCheck: Warning: LunchBag_2 Static mesh actor has NULL StaticMesh property 
+[2018.12.07-14.00.10:456][ 38]MapCheck: Warning: LunchBag_2 Static mesh actor LunchBag_2 has NULL StaticMesh property 
+[2018.12.07-14.00.10:609][ 38]MapCheck: Map check complete: 1 Error(s), 4 Warning(s), took 176.265ms to complete.
+[2018.12.07-14.00.10:633][ 38]LogEditorBuildUtils: Build time 0:11
+[2018.12.07-14.00.14:425][106]LightingResults: Warning: Sandwich Object has overlapping UVs.
+[2018.12.07-14.00.14:425][106]LightingResults: Sandwich Lightmap UV are overlapping by 7.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.07-14.00.14:735][113]LightingResults: Warning: Sandwich Object has overlapping UVs.
+[2018.12.07-14.00.14:735][113]LightingResults: Sandwich Lightmap UV are overlapping by 7.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.07-14.00.15:931][140]LightingResults: Warning: Sandwich Object has overlapping UVs.
+[2018.12.07-14.00.15:931][140]LightingResults: Sandwich Lightmap UV are overlapping by 7.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.07-14.00.17:423][174]LightingResults: Warning: Sandwich Object has overlapping UVs.
+[2018.12.07-14.00.17:424][174]LightingResults: Sandwich Lightmap UV are overlapping by 7.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.07-14.00.17:644][179]LightingResults: Warning: Sandwich Object has overlapping UVs.
+[2018.12.07-14.00.17:644][179]LightingResults: Sandwich Lightmap UV are overlapping by 7.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.07-14.00.17:997][187]LightingResults: Warning: Sandwich Object has overlapping UVs.
+[2018.12.07-14.00.17:998][187]LightingResults: Sandwich Lightmap UV are overlapping by 7.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.07-14.00.18:340][195]LightingResults: Warning: Sandwich Object has overlapping UVs.
+[2018.12.07-14.00.18:340][195]LightingResults: Sandwich Lightmap UV are overlapping by 7.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.07-14.00.18:955][209]LightingResults: Warning: Sandwich Object has overlapping UVs.
+[2018.12.07-14.00.18:955][209]LightingResults: Sandwich Lightmap UV are overlapping by 7.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.07-14.00.19:478][221]LightingResults: Warning: Sandwich Object has overlapping UVs.
+[2018.12.07-14.00.19:478][221]LightingResults: Sandwich Lightmap UV are overlapping by 7.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.07-14.00.20:138][236]LightingResults: Warning: Sandwich Object has overlapping UVs.
+[2018.12.07-14.00.20:138][236]LightingResults: Sandwich Lightmap UV are overlapping by 7.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.07-14.00.20:621][247]LightingResults: Warning: Sandwich Object has overlapping UVs.
+[2018.12.07-14.00.20:621][247]LightingResults: Sandwich Lightmap UV are overlapping by 7.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.07-14.00.22:375][287]LightingResults: Warning: Sandwich Object has overlapping UVs.
+[2018.12.07-14.00.22:375][287]LightingResults: Sandwich Lightmap UV are overlapping by 7.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.07-14.00.22:683][294]LightingResults: Warning: Sandwich Object has overlapping UVs.
+[2018.12.07-14.00.22:683][294]LightingResults: Sandwich Lightmap UV are overlapping by 7.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.12.07-14.00.23:154][305]Job is a success!
+[2018.12.07-14.00.23:401][306]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.023s
+[2018.12.07-14.00.23:401][306]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.07-14.00.23:401][306]LogVolumetricLightmapImport:      BrickData 525x5x5 = 0.5Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2018.12.07-14.00.23:401][306]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.07-14.00.23:401][306]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2018.12.07-14.00.23:401][306]LogVolumetricLightmapImport:          1: 8.6% covering 14.1% of volume
+[2018.12.07-14.00.23:401][306]LogVolumetricLightmapImport:          2: 90.5% covering 2.3% of volume
+[2018.12.07-14.00.25:120][306]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.12.07-14.00.25:120][306]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.12.07-14.00.25:120][306]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.12.07-14.00.25:120][306]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2018.12.07-14.00.25:121][306]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.12.07-14.00.25:121][306]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.12.07-14.00.25:121][306]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2018.12.07-14.00.25:121][306]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.12.07-14.00.25:121][306]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.12.07-14.00.25:321][306]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X512)
+[2018.12.07-14.00.25:321][306]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2018.12.07-14.00.25:376][306]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X512)
+[2018.12.07-14.00.25:453][306]Lightmass on LAPTOP-Q6FHCA5H: 13.1 sec total, 617 ms importing, 90 ms setup, 1.14 sec photons, 11.2 sec processing, 0 ms extra exporting [84/84 mappings]. Threads: 45.0 sec total, 20.2 sec processing.
+[2018.12.07-14.00.25:530][306]LogStaticLightingSystem: Illumination: 22.0 sec (1.60 sec encoding lightmaps, 247 ms encoding shadowmaps)
+[2018.12.07-14.00.25:530][306]LogStaticLightingSystem: Lightmap texture memory:  5.3 MB (2.7 MB streaming, 2.7 MB non-streaming), 6 textures
+[2018.12.07-14.00.25:530][306]LogStaticLightingSystem: Shadowmap texture memory: 2.8 MB (2.7 MB streaming, 0.1 MB non-streaming), 3 textures
+[2018.12.07-14.00.26:208][306]DumpUnbuiltLightIteractions
+[2018.12.07-14.00.26:208][306]Lights with unbuilt interactions: 0
+[2018.12.07-14.00.26:208][306]
+[2018.12.07-14.00.26:208][306]Primitives with unbuilt interactions: 0
+[2018.12.07-14.00.26:342][307]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.07-14.00.26:342][307]MapCheck: New page: Cafeteria - Dec 7, 2018, 4:00:26 AM
+[2018.12.07-14.00.26:347][307]MapCheck: Warning: FullyRiggedGirlSitWithAnimation_PhysicsAsset_2 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.12.07-14.00.26:347][307]MapCheck: Warning: FullyRiggedGirlSitWithAnimation_PhysicsAsset_2 Skeletal mesh actor has NULL SkeletalMesh property 
+[2018.12.07-14.00.26:348][307]MapCheck: Warning: LunchBag_2 Static mesh actor has NULL StaticMesh property 
+[2018.12.07-14.00.26:348][307]MapCheck: Warning: LunchBag_2 Static mesh actor LunchBag_2 has NULL StaticMesh property 
+[2018.12.07-14.00.26:511][307]MapCheck: Map check complete: 0 Error(s), 4 Warning(s), took 168.347ms to complete.
+[2018.12.07-14.02.49:492][573]LogSlate: Window 'Message Log' being destroyed
+[2018.12.07-14.02.49:547][573]LogSlate: Window 'Message Log' being destroyed
+[2018.12.07-14.02.52:155][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.02.52:335][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cafeteria" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Cafeteria.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.07-14.02.52:540][636]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/CafeteriaB29637AA4EEB9FFBC04FF5A9DF292C40.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Cafeteria.umap'
+[2018.12.07-14.02.52:610][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cafeteria_BuiltData" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Cafeteria_BuiltData.uasset" SILENT=true
+[2018.12.07-14.02.53:235][636]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Cafeteria_BuiltDataA86775B44044F26591DE48A5E440CE6A.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Cafeteria_BuiltData.uasset'
+[2018.12.07-14.03.00:432][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.03.00:477][771]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-14.03.00:532][771]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.07-14.03.00:534][771]LogPlayLevel: [PlayLevel] Compiling ClassroomBP2 before play...
+[2018.12.07-14.03.00:728][771]LogPlayLevel: PlayLevel: Blueprint regeneration took 196 ms (1 blueprints)
+[2018.12.07-14.03.00:729][771]PIE: New page: PIE session: Cafeteria (Dec 7, 2018, 4:03:00 AM)
+[2018.12.07-14.03.00:729][771]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Cafeteria
+[2018.12.07-14.03.00:741][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012330s)
+[2018.12.07-14.03.00:742][771]LogAIModule: Creating AISystem for world Cafeteria
+[2018.12.07-14.03.00:743][771]LogPlayLevel: PIE: World Init took: (0.001387s)
+[2018.12.07-14.03.00:743][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Cafeteria.Cafeteria to /Game/Maps/UEDPIE_0_Cafeteria.Cafeteria (0.014061s)
+[2018.12.07-14.03.00:784][771]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-14.03.01:800][771]LogInit: FAudioDevice initialized.
+[2018.12.07-14.03.01:835][771]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-14.03.01:844][771]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Cafeteria.Cafeteria up for play (max tick rate 60) at 2018.12.07-09.03.01
+[2018.12.07-14.03.01:846][771]LogWorld: Bringing up level for play took: 0.010192
+[2018.12.07-14.03.01:861][771]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Cafeteria 1.622
+[2018.12.07-14.03.10:795][983]LogNet: Browse: /Game/Maps/Classroom
+[2018.12.07-14.03.10:822][983]LogLoad: LoadMap: /Game/Maps/Classroom
+[2018.12.07-14.03.11:386][983]LogAIModule: Creating AISystem for world Classroom
+[2018.12.07-14.03.11:387][983]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-14.03.11:415][983]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Classroom.Classroom up for play (max tick rate 60) at 2018.12.07-09.03.11
+[2018.12.07-14.03.11:417][983]LogWorld: Bringing up level for play took: 0.027617
+[2018.12.07-14.03.11:419][983]LogLoad: Took 0.597112 seconds to LoadMap(/Game/Maps/Classroom)
+[2018.12.07-14.03.15:461][ 95]LogNet: Browse: /Game/Maps/Cafeteria
+[2018.12.07-14.03.15:490][ 95]LogLoad: LoadMap: /Game/Maps/Cafeteria
+[2018.12.07-14.03.15:564][ 95]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Cafeteria
+[2018.12.07-14.03.15:577][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013042s)
+[2018.12.07-14.03.15:578][ 95]LogAIModule: Creating AISystem for world Cafeteria
+[2018.12.07-14.03.15:579][ 95]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2018.12.07-14.03.15:579][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Cafeteria.Cafeteria to /Game/Maps/UEDPIE_0_Cafeteria.Cafeteria (0.014468s)
+[2018.12.07-14.03.15:579][ 95]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-14.03.15:591][ 95]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Cafeteria.Cafeteria up for play (max tick rate 60) at 2018.12.07-09.03.15
+[2018.12.07-14.03.15:594][ 95]LogWorld: Bringing up level for play took: 0.013326
+[2018.12.07-14.03.15:596][ 95]LogLoad: Took 0.106608 seconds to LoadMap(/Game/Maps/UEDPIE_0_Cafeteria)
+[2018.12.07-14.03.22:044][252]LogNet: Browse: /Game/Maps/Classroom
+[2018.12.07-14.03.22:084][252]LogLoad: LoadMap: /Game/Maps/Classroom
+[2018.12.07-14.03.22:604][252]LogAIModule: Creating AISystem for world Classroom
+[2018.12.07-14.03.22:605][252]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-14.03.22:627][252]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Classroom.Classroom up for play (max tick rate 60) at 2018.12.07-09.03.22
+[2018.12.07-14.03.22:629][252]LogWorld: Bringing up level for play took: 0.023300
+[2018.12.07-14.03.22:631][252]LogLoad: Took 0.547451 seconds to LoadMap(/Game/Maps/Classroom)
+[2018.12.07-14.03.26:371][358]LogNet: Browse: /Game/Maps/Cafeteria
+[2018.12.07-14.03.26:413][358]LogLoad: LoadMap: /Game/Maps/Cafeteria
+[2018.12.07-14.03.26:487][358]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Cafeteria
+[2018.12.07-14.03.26:500][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013050s)
+[2018.12.07-14.03.26:500][358]LogAIModule: Creating AISystem for world Cafeteria
+[2018.12.07-14.03.26:501][358]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2018.12.07-14.03.26:501][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Cafeteria.Cafeteria to /Game/Maps/UEDPIE_0_Cafeteria.Cafeteria (0.014371s)
+[2018.12.07-14.03.26:501][358]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-14.03.26:510][358]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Cafeteria.Cafeteria up for play (max tick rate 60) at 2018.12.07-09.03.26
+[2018.12.07-14.03.26:511][358]LogWorld: Bringing up level for play took: 0.008467
+[2018.12.07-14.03.26:515][358]LogLoad: Took 0.101558 seconds to LoadMap(/Game/Maps/UEDPIE_0_Cafeteria)
+[2018.12.07-14.03.27:349][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.03.27:428][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-14.03.27:471][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.03.27:516][379]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.12.07-14.03.31:353][462]LogEditorViewport: Clicking on Actor (LMB): RecessBP2_C (RecessBP2)
+[2018.12.07-14.03.32:743][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.03.42:309][915]BlueprintLog: New page: Compile RecessBP2
+[2018.12.07-14.03.43:399][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RecessBP2" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/RecessBP2.uasset" SILENT=true
+[2018.12.07-14.03.43:450][961]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/RecessBP280F750214DD83E5E85F05BBDCBFFB09D.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/RecessBP2.uasset'
+[2018.12.07-14.03.58:523][848]BlueprintLog: New page: Compile RecessBP
+[2018.12.07-14.03.59:456][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RecessBP" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/RecessBP.uasset" SILENT=true
+[2018.12.07-14.03.59:502][887]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/RecessBPA29CD98E4C441ABFB985F6A2EA9BDDD3.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/RecessBP.uasset'
+[2018.12.07-14.04.05:968][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.04.06:113][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cafeteria" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Cafeteria.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.07-14.04.06:314][ 76]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/CafeteriaE0F71B7244256B87727012BCFE90368F.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Cafeteria.umap'
+[2018.12.07-14.04.06:386][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Cafeteria_BuiltData" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Cafeteria_BuiltData.uasset" SILENT=true
+[2018.12.07-14.04.07:012][ 76]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Cafeteria_BuiltData7CA718E34AEAC96F90CEA1911268716B.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Cafeteria_BuiltData.uasset'
+[2018.12.07-14.04.08:274][106]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-14.04.08:344][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-14.04.08:345][106]PIE: New page: PIE session: Cafeteria (Dec 7, 2018, 4:04:08 AM)
+[2018.12.07-14.04.08:345][106]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Cafeteria
+[2018.12.07-14.04.08:357][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011712s)
+[2018.12.07-14.04.08:357][106]LogAIModule: Creating AISystem for world Cafeteria
+[2018.12.07-14.04.08:358][106]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2018.12.07-14.04.08:358][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Cafeteria.Cafeteria to /Game/Maps/UEDPIE_0_Cafeteria.Cafeteria (0.012968s)
+[2018.12.07-14.04.08:403][106]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-14.04.09:418][106]LogInit: FAudioDevice initialized.
+[2018.12.07-14.04.09:455][106]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-14.04.09:466][106]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Cafeteria.Cafeteria up for play (max tick rate 60) at 2018.12.07-09.04.09
+[2018.12.07-14.04.09:468][106]LogWorld: Bringing up level for play took: 0.011289
+[2018.12.07-14.04.09:482][106]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Cafeteria 1.244
+[2018.12.07-14.04.15:571][253]LogNet: Browse: /Game/Maps/Recess
+[2018.12.07-14.04.15:614][253]LogLoad: LoadMap: /Game/Maps/Recess
+[2018.12.07-14.04.18:400][253]LogAIModule: Creating AISystem for world Recess
+[2018.12.07-14.04.18:401][253]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-14.04.18:427][253]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Recess.Recess up for play (max tick rate 60) at 2018.12.07-09.04.18
+[2018.12.07-14.04.18:429][253]LogWorld: Bringing up level for play took: 0.021806
+[2018.12.07-14.04.18:433][253]LogLoad: Took 2.819038 seconds to LoadMap(/Game/Maps/Recess)
+[2018.12.07-14.04.33:171][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.04.33:241][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-14.04.33:286][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.04.33:343][666]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.12.07-14.04.39:205][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.04.45:242][892]LogAIModule: Creating AISystem for world Recess
+[2018.12.07-14.04.45:288][892]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Recess.Recess
+[2018.12.07-14.04.45:333][892]Cmd: MAP LOAD FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Recess.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.07-14.04.45:334][892]LightingResults: New page: Lighting Build
+[2018.12.07-14.04.45:334][892]LoadErrors: New page: Loading map: Recess.umap
+[2018.12.07-14.04.45:340][892]MapCheck: New page: Map Check
+[2018.12.07-14.04.45:340][892]LightingResults: New page: Lighting Build
+[2018.12.07-14.04.45:412][892]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.07-14.04.45:513][892]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.07-14.04.45:676][892]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 162.748ms to complete.
+[2018.12.07-14.04.45:676][892]LogFileHelpers: Loading map 'Recess' took 0.343
+[2018.12.07-14.04.55:641][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door)
+[2018.12.07-14.04.57:170][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.05.13:527][590]LogSlate: Window 'Select Path' being destroyed
+[2018.12.07-14.05.45:028][876]LogSlate: Window 'Add Blueprint Component' being destroyed
+[2018.12.07-14.06.05:568][400]LogSlate: Window 'Select Path' being destroyed
+[2018.12.07-14.06.05:729][400]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/R2C.R2C
+[2018.12.07-14.06.15:838][877]BlueprintLog: New page: Compile R2C
+[2018.12.07-14.06.19:863][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/R2C" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/R2C.uasset" SILENT=true
+[2018.12.07-14.06.19:893][ 95]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/R2CC2F49BA3452A41D2FB6B65BFF7D06359.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/R2C.uasset'
+[2018.12.07-14.06.26:849][339]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-14.06.30:212][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.06.42:779][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.06.42:882][801]BlueprintLog: New page: Compile R2C
+[2018.12.07-14.06.44:134][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/R2C" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/R2C.uasset" SILENT=true
+[2018.12.07-14.06.44:190][827]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/R2CDFF15A224A60C76F23A83DAE292EFCB6.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/R2C.uasset'
+[2018.12.07-14.06.52:158][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door2)
+[2018.12.07-14.06.53:786][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.07.01:145][263]LogSlate: Window 'Select Path' being destroyed
+[2018.12.07-14.07.01:305][263]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/R2CL.R2CL
+[2018.12.07-14.07.05:057][355]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-14.07.09:489][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-14.07.11:463][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.07.30:436][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.07.35:774][388]BlueprintLog: New page: Compile R2CL
+[2018.12.07-14.07.36:991][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/R2CL" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/R2CL.uasset" SILENT=true
+[2018.12.07-14.07.37:024][438]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/R2CL0BA46FB44E44750C00AB6BBDB91DA42B.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/R2CL.uasset'
+[2018.12.07-14.07.40:414][555]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-14.07.40:482][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-14.07.40:482][555]PIE: New page: PIE session: Recess (Dec 7, 2018, 4:07:40 AM)
+[2018.12.07-14.07.40:482][555]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Recess
+[2018.12.07-14.07.40:489][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006119s)
+[2018.12.07-14.07.40:490][555]LogAIModule: Creating AISystem for world Recess
+[2018.12.07-14.07.40:490][555]LogPlayLevel: PIE: World Init took: (0.001383s)
+[2018.12.07-14.07.40:490][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Recess.Recess to /Game/Maps/UEDPIE_0_Recess.Recess (0.007787s)
+[2018.12.07-14.07.40:543][555]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-14.07.41:559][555]LogInit: FAudioDevice initialized.
+[2018.12.07-14.07.41:592][555]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-14.07.41:601][555]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Recess.Recess up for play (max tick rate 60) at 2018.12.07-09.07.41
+[2018.12.07-14.07.41:603][555]LogWorld: Bringing up level for play took: 0.010223
+[2018.12.07-14.07.41:618][555]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Recess 1.38
+[2018.12.07-14.07.46:738][699]LogNet: Browse: /Game/Maps/Cafeteria
+[2018.12.07-14.07.46:777][699]LogLoad: LoadMap: /Game/Maps/Cafeteria
+[2018.12.07-14.07.47:171][699]LogAIModule: Creating AISystem for world Cafeteria
+[2018.12.07-14.07.47:171][699]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-14.07.47:190][699]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMeshComponent0. Please use the Teleport flag
+[2018.12.07-14.07.47:192][699]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Cafeteria.Cafeteria up for play (max tick rate 60) at 2018.12.07-09.07.47
+[2018.12.07-14.07.47:194][699]LogWorld: Bringing up level for play took: 0.020352
+[2018.12.07-14.07.47:196][699]LogLoad: Took 0.420010 seconds to LoadMap(/Game/Maps/Cafeteria)
+[2018.12.07-14.07.50:762][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.07.50:835][779]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-14.07.50:883][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.07.50:934][780]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.12.07-14.07.52:561][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.07.52:640][823]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-14.07.52:712][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-14.07.52:713][823]PIE: New page: PIE session: Recess (Dec 7, 2018, 4:07:52 AM)
+[2018.12.07-14.07.52:713][823]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Recess
+[2018.12.07-14.07.52:719][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005951s)
+[2018.12.07-14.07.52:722][823]LogAIModule: Creating AISystem for world Recess
+[2018.12.07-14.07.52:725][823]LogPlayLevel: PIE: World Init took: (0.005678s)
+[2018.12.07-14.07.52:726][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Recess.Recess to /Game/Maps/UEDPIE_0_Recess.Recess (0.012645s)
+[2018.12.07-14.07.52:771][823]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-14.07.53:785][823]LogInit: FAudioDevice initialized.
+[2018.12.07-14.07.53:818][823]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-14.07.53:826][823]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Recess.Recess up for play (max tick rate 60) at 2018.12.07-09.07.53
+[2018.12.07-14.07.53:828][823]LogWorld: Bringing up level for play took: 0.009128
+[2018.12.07-14.07.53:843][823]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Recess 1.604
+[2018.12.07-14.07.58:857][963]LogNet: Browse: /Game/Maps/Classroom
+[2018.12.07-14.07.58:896][963]LogLoad: LoadMap: /Game/Maps/Classroom
+[2018.12.07-14.07.59:424][963]LogAIModule: Creating AISystem for world Classroom
+[2018.12.07-14.07.59:425][963]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-14.07.59:450][963]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Classroom.Classroom up for play (max tick rate 60) at 2018.12.07-09.07.59
+[2018.12.07-14.07.59:452][963]LogWorld: Bringing up level for play took: 0.025833
+[2018.12.07-14.07.59:456][963]LogLoad: Took 0.559292 seconds to LoadMap(/Game/Maps/Classroom)
+[2018.12.07-14.08.01:031][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.08.01:114][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-14.08.01:163][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.08.01:201][  6]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.12.07-14.08.03:168][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.08.03:207][ 59]MapCheck: New page: Map Check
+[2018.12.07-14.08.03:285][ 59]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.07-14.08.03:286][ 59]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.07-14.08.03:403][ 59]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Concrete_Poured, compiling. 
+[2018.12.07-14.08.03:410][ 59]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2018.12.07-14.08.03:420][ 59]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.07-14.08.03:420][ 59]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.07-14.08.03:420][ 59]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Steel, compiling. 
+[2018.12.07-14.08.03:430][ 59]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Pine, compiling. 
+[2018.12.07-14.08.03:440][ 59]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_TableRound, compiling. 
+[2018.12.07-14.08.03:452][ 59]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.07-14.08.03:452][ 59]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy images_Mat, compiling. 
+[2018.12.07-14.08.03:466][ 59]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ceramic_Tile_Checker, compiling. 
+[2018.12.07-14.08.03:481][ 59]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy defaultboy_Mat, compiling. 
+[2018.12.07-14.08.03:496][ 59]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy FullyRiggedGirlWithAnimations_lambert2_BaseColor_Mat, compiling. 
+[2018.12.07-14.08.03:512][ 59]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2018.12.07-14.08.03:527][ 59]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy dustin_Mat, compiling. 
+[2018.12.07-14.08.03:542][ 59]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy reggie_Mat, compiling. 
+[2018.12.07-14.08.03:556][ 59]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lydia_Mat, compiling. 
+[2018.12.07-14.08.03:571][ 59]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy zack_Mat, compiling. 
+[2018.12.07-14.08.03:584][ 59]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy cafeteriadoor_Mat, compiling. 
+[2018.12.07-14.08.03:600][ 59]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy classdoor_Mat, compiling. 
+[2018.12.07-14.08.03:614][ 59]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Rust, compiling. 
+[2018.12.07-14.08.06:188][ 59]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.12.07-14.08.06:188][ 59]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.12.07-14.08.06:188][ 59]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.07-14.08.06:188][ 59]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.07-14.08.06:188][ 59]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.07-14.08.06:188][ 59]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.12.07-14.08.06:188][ 59]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.07-14.08.06:188][ 59]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.12.07-14.08.06:188][ 59]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.12.07-14.08.06:188][ 59]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.12.07-14.08.06:188][ 59]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.12.07-14.08.06:188][ 59]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.12.07-14.08.06:188][ 59]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.07-14.08.06:188][ 59]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.07-14.08.06:188][ 59]TextureStreamingBuild: Display: Compiling optional shaders took 2.790 seconds.
+[2018.12.07-14.08.06:232][ 59]LogLevel: Display: Export Material TexCoord Scales took 0.044 seconds.
+[2018.12.07-14.08.06:262][ 59]TextureStreamingBuild: Display: Build Texture Streaming took 0.029 seconds.
+[2018.12.07-14.08.06:304][ 59]LightingResults: New page: Lighting Build - Dec 7, 2018, 4:08:06 AM
+[2018.12.07-14.08.06:313][ 59]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.07-14.08.06:315][ 59]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.07-14.08.06:315][ 59]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.07-14.08.06:316][ 59]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.07-14.08.06:316][ 59]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9404
+[2018.12.07-14.08.10:996][ 59]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.12.07-14.08.10:996][ 59]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.07-14.08.10:996][ 59]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.07-14.08.10:996][ 59]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.07-14.08.10:996][ 59]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.07-14.08.10:996][ 59]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.07-14.08.11:202][ 59]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.07-14.08.11:202][ 59]MapCheck: New page: Recess - Dec 7, 2018, 4:08:11 AM
+[2018.12.07-14.08.11:217][ 59]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.12.07-14.08.11:383][ 59]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 180.085ms to complete.
+[2018.12.07-14.08.11:406][ 59]LogEditorBuildUtils: Build time 0:08
+[2018.12.07-14.08.17:228][191]Job is a success!
+[2018.12.07-14.08.17:445][192]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.018s
+[2018.12.07-14.08.17:445][192]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.07-14.08.17:445][192]LogVolumetricLightmapImport:      BrickData 515x5x5 = 0.5Mb
+[2018.12.07-14.08.17:445][192]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.07-14.08.17:446][192]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2018.12.07-14.08.17:446][192]LogVolumetricLightmapImport:          1: 3.9% covering 6.3% of volume
+[2018.12.07-14.08.17:446][192]LogVolumetricLightmapImport:          2: 95.1% covering 2.4% of volume
+[2018.12.07-14.08.17:836][192]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2018.12.07-14.08.17:836][192]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2018.12.07-14.08.17:836][192]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.12.07-14.08.17:836][192]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.12.07-14.08.17:910][192]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.12.07-14.08.17:910][192]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X128)
+[2018.12.07-14.08.17:987][192]Lightmass on LAPTOP-Q6FHCA5H: 5.41 sec total, 408 ms importing, 167 ms setup, 668 ms photons, 4.13 sec processing, 0 ms extra exporting [20/20 mappings]. Threads: 16.4 sec total, 5.98 sec processing.
+[2018.12.07-14.08.17:998][192]LogStaticLightingSystem: Illumination: 11.5 sec (335 ms encoding lightmaps, 67 ms encoding shadowmaps)
+[2018.12.07-14.08.17:998][192]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.12.07-14.08.17:998][192]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.12.07-14.08.18:002][192]DumpUnbuiltLightIteractions
+[2018.12.07-14.08.18:002][192]Lights with unbuilt interactions: 0
+[2018.12.07-14.08.18:002][192]
+[2018.12.07-14.08.18:002][192]Primitives with unbuilt interactions: 0
+[2018.12.07-14.08.18:208][193]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.07-14.08.18:208][193]MapCheck: New page: Recess - Dec 7, 2018, 4:08:18 AM
+[2018.12.07-14.08.18:399][193]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 190.683ms to complete.
+[2018.12.07-14.08.21:452][271]LogSlate: Window 'Message Log' being destroyed
+[2018.12.07-14.08.21:504][271]LogSlate: Window 'Message Log' being destroyed
+[2018.12.07-14.08.22:315][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Recess" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Recess.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.07-14.08.22:471][291]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/RecessDAF6121841EDABFD48B308BF225E985E.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Recess.umap'
+[2018.12.07-14.08.22:541][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Recess_BuiltData" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Recess_BuiltData.uasset" SILENT=true
+[2018.12.07-14.08.22:674][291]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Recess_BuiltData3C1073874D4A676FE18E6BABB4642C2B.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Recess_BuiltData.uasset'
+[2018.12.07-14.08.38:993][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.08.50:934][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP.ClassroomBP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ClassroomBP.PackageMetaData'
+[2018.12.07-14.08.50:934][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP.SKEL_ClassroomBP_C' ref from Metadata '/Game/ClassroomBP.PackageMetaData'
+[2018.12.07-14.08.50:934][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP.ClassroomBP_C' ref from Metadata '/Game/ClassroomBP.PackageMetaData'
+[2018.12.07-14.08.50:934][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP.ClassroomBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ClassroomBP.PackageMetaData'
+[2018.12.07-14.08.50:934][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP.ClassroomBP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ClassroomBP.PackageMetaData'
+[2018.12.07-14.08.50:934][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP.ClassroomBP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ClassroomBP.PackageMetaData'
+[2018.12.07-14.08.50:934][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP.SKEL_ClassroomBP_C:Box' ref from Metadata '/Game/ClassroomBP.PackageMetaData'
+[2018.12.07-14.08.50:934][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP.SKEL_ClassroomBP_C:ReceiveTick' ref from Metadata '/Game/ClassroomBP.PackageMetaData'
+[2018.12.07-14.08.50:934][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP.SKEL_ClassroomBP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ClassroomBP.PackageMetaData'
+[2018.12.07-14.08.50:934][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP.SKEL_ClassroomBP_C:ReceiveBeginPlay' ref from Metadata '/Game/ClassroomBP.PackageMetaData'
+[2018.12.07-14.08.50:934][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP.SKEL_ClassroomBP_C:UserConstructionScript' ref from Metadata '/Game/ClassroomBP.PackageMetaData'
+[2018.12.07-14.08.50:934][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP.ClassroomBP_C:Box' ref from Metadata '/Game/ClassroomBP.PackageMetaData'
+[2018.12.07-14.08.50:934][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP.ClassroomBP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ClassroomBP.PackageMetaData'
+[2018.12.07-14.08.50:934][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP.ClassroomBP_C:UserConstructionScript' ref from Metadata '/Game/ClassroomBP.PackageMetaData'
+[2018.12.07-14.08.50:942][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP2.ClassroomBP2:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ClassroomBP2.PackageMetaData'
+[2018.12.07-14.08.50:942][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP2.SKEL_ClassroomBP2_C' ref from Metadata '/Game/ClassroomBP2.PackageMetaData'
+[2018.12.07-14.08.50:942][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP2.ClassroomBP2_C' ref from Metadata '/Game/ClassroomBP2.PackageMetaData'
+[2018.12.07-14.08.50:942][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP2.ClassroomBP2:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ClassroomBP2.PackageMetaData'
+[2018.12.07-14.08.50:942][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP2.ClassroomBP2:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ClassroomBP2.PackageMetaData'
+[2018.12.07-14.08.50:942][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP2.SKEL_ClassroomBP2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ClassroomBP2.PackageMetaData'
+[2018.12.07-14.08.50:942][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP2.SKEL_ClassroomBP2_C:ReceiveTick' ref from Metadata '/Game/ClassroomBP2.PackageMetaData'
+[2018.12.07-14.08.50:942][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP2.SKEL_ClassroomBP2_C:ReceiveBeginPlay' ref from Metadata '/Game/ClassroomBP2.PackageMetaData'
+[2018.12.07-14.08.50:942][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP2.SKEL_ClassroomBP2_C:Box' ref from Metadata '/Game/ClassroomBP2.PackageMetaData'
+[2018.12.07-14.08.50:942][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP2.SKEL_ClassroomBP2_C:UserConstructionScript' ref from Metadata '/Game/ClassroomBP2.PackageMetaData'
+[2018.12.07-14.08.50:942][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP2.ClassroomBP2_C:Box' ref from Metadata '/Game/ClassroomBP2.PackageMetaData'
+[2018.12.07-14.08.50:942][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP2.ClassroomBP2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ClassroomBP2.PackageMetaData'
+[2018.12.07-14.08.50:942][793]LogMetaData: Removing '/Game/ThirdPersonBP/ClassroomBP2.ClassroomBP2_C:UserConstructionScript' ref from Metadata '/Game/ClassroomBP2.PackageMetaData'
+[2018.12.07-14.08.50:952][793]LogMetaData: Removing '/Game/ThirdPersonBP/Door_Blueprint.Door_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Door_Blueprint.PackageMetaData'
+[2018.12.07-14.08.50:952][793]LogMetaData: Removing '/Game/ThirdPersonBP/Door_Blueprint.SKEL_Door_Blueprint_C' ref from Metadata '/Game/Door_Blueprint.PackageMetaData'
+[2018.12.07-14.08.50:952][793]LogMetaData: Removing '/Game/ThirdPersonBP/Door_Blueprint.Door_Blueprint_C' ref from Metadata '/Game/Door_Blueprint.PackageMetaData'
+[2018.12.07-14.08.50:952][793]LogMetaData: Removing '/Game/ThirdPersonBP/Door_Blueprint.Door_Blueprint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Door_Blueprint.PackageMetaData'
+[2018.12.07-14.08.50:952][793]LogMetaData: Removing '/Game/ThirdPersonBP/Door_Blueprint.Door_Blueprint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Door_Blueprint.PackageMetaData'
+[2018.12.07-14.08.50:952][793]LogMetaData: Removing '/Game/ThirdPersonBP/Door_Blueprint.Door_Blueprint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Door_Blueprint.PackageMetaData'
+[2018.12.07-14.08.50:952][793]LogMetaData: Removing '/Game/ThirdPersonBP/Door_Blueprint.SKEL_Door_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/Door_Blueprint.PackageMetaData'
+[2018.12.07-14.08.50:952][793]LogMetaData: Removing '/Game/ThirdPersonBP/Door_Blueprint.SKEL_Door_Blueprint_C:Box' ref from Metadata '/Game/Door_Blueprint.PackageMetaData'
+[2018.12.07-14.08.50:952][793]LogMetaData: Removing '/Game/ThirdPersonBP/Door_Blueprint.SKEL_Door_Blueprint_C:ReceiveTick' ref from Metadata '/Game/Door_Blueprint.PackageMetaData'
+[2018.12.07-14.08.50:952][793]LogMetaData: Removing '/Game/ThirdPersonBP/Door_Blueprint.SKEL_Door_Blueprint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Door_Blueprint.PackageMetaData'
+[2018.12.07-14.08.50:952][793]LogMetaData: Removing '/Game/ThirdPersonBP/Door_Blueprint.SKEL_Door_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/Door_Blueprint.PackageMetaData'
+[2018.12.07-14.08.50:952][793]LogMetaData: Removing '/Game/ThirdPersonBP/Door_Blueprint.Door_Blueprint_C:Box' ref from Metadata '/Game/Door_Blueprint.PackageMetaData'
+[2018.12.07-14.08.50:952][793]LogMetaData: Removing '/Game/ThirdPersonBP/Door_Blueprint.Door_Blueprint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Door_Blueprint.PackageMetaData'
+[2018.12.07-14.08.50:952][793]LogMetaData: Removing '/Game/ThirdPersonBP/Door_Blueprint.Door_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/Door_Blueprint.PackageMetaData'
+[2018.12.07-14.08.50:958][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2C.R2C:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/R2C.PackageMetaData'
+[2018.12.07-14.08.50:958][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2C.SKEL_R2C_C' ref from Metadata '/Game/R2C.PackageMetaData'
+[2018.12.07-14.08.50:958][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2C.R2C_C' ref from Metadata '/Game/R2C.PackageMetaData'
+[2018.12.07-14.08.50:958][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2C.R2C:EventGraph.K2Node_Event_0' ref from Metadata '/Game/R2C.PackageMetaData'
+[2018.12.07-14.08.50:958][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2C.R2C:EventGraph.K2Node_Event_2' ref from Metadata '/Game/R2C.PackageMetaData'
+[2018.12.07-14.08.50:958][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2C.SKEL_R2C_C:Box' ref from Metadata '/Game/R2C.PackageMetaData'
+[2018.12.07-14.08.50:958][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2C.SKEL_R2C_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/R2C.PackageMetaData'
+[2018.12.07-14.08.50:958][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2C.SKEL_R2C_C:ReceiveTick' ref from Metadata '/Game/R2C.PackageMetaData'
+[2018.12.07-14.08.50:958][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2C.SKEL_R2C_C:ReceiveBeginPlay' ref from Metadata '/Game/R2C.PackageMetaData'
+[2018.12.07-14.08.50:958][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2C.SKEL_R2C_C:UserConstructionScript' ref from Metadata '/Game/R2C.PackageMetaData'
+[2018.12.07-14.08.50:958][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2C.R2C_C:Box' ref from Metadata '/Game/R2C.PackageMetaData'
+[2018.12.07-14.08.50:958][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2C.R2C_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/R2C.PackageMetaData'
+[2018.12.07-14.08.50:958][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2C.R2C_C:UserConstructionScript' ref from Metadata '/Game/R2C.PackageMetaData'
+[2018.12.07-14.08.50:967][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2CL.R2CL:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/R2CL.PackageMetaData'
+[2018.12.07-14.08.50:967][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2CL.SKEL_R2CL_C' ref from Metadata '/Game/R2CL.PackageMetaData'
+[2018.12.07-14.08.50:967][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2CL.R2CL_C' ref from Metadata '/Game/R2CL.PackageMetaData'
+[2018.12.07-14.08.50:967][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2CL.R2CL:EventGraph.K2Node_Event_0' ref from Metadata '/Game/R2CL.PackageMetaData'
+[2018.12.07-14.08.50:967][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2CL.R2CL:EventGraph.K2Node_Event_2' ref from Metadata '/Game/R2CL.PackageMetaData'
+[2018.12.07-14.08.50:967][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2CL.SKEL_R2CL_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/R2CL.PackageMetaData'
+[2018.12.07-14.08.50:967][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2CL.SKEL_R2CL_C:ReceiveTick' ref from Metadata '/Game/R2CL.PackageMetaData'
+[2018.12.07-14.08.50:967][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2CL.SKEL_R2CL_C:ReceiveBeginPlay' ref from Metadata '/Game/R2CL.PackageMetaData'
+[2018.12.07-14.08.50:967][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2CL.SKEL_R2CL_C:Box' ref from Metadata '/Game/R2CL.PackageMetaData'
+[2018.12.07-14.08.50:967][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2CL.SKEL_R2CL_C:UserConstructionScript' ref from Metadata '/Game/R2CL.PackageMetaData'
+[2018.12.07-14.08.50:967][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2CL.R2CL_C:Box' ref from Metadata '/Game/R2CL.PackageMetaData'
+[2018.12.07-14.08.50:967][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2CL.R2CL_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/R2CL.PackageMetaData'
+[2018.12.07-14.08.50:967][793]LogMetaData: Removing '/Game/ThirdPersonBP/R2CL.R2CL_C:UserConstructionScript' ref from Metadata '/Game/R2CL.PackageMetaData'
+[2018.12.07-14.08.50:976][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP2.RecessBP2:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/RecessBP2.PackageMetaData'
+[2018.12.07-14.08.50:976][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP2.SKEL_RecessBP2_C' ref from Metadata '/Game/RecessBP2.PackageMetaData'
+[2018.12.07-14.08.50:976][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP2.RecessBP2_C' ref from Metadata '/Game/RecessBP2.PackageMetaData'
+[2018.12.07-14.08.50:976][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP2.RecessBP2:EventGraph.K2Node_Event_0' ref from Metadata '/Game/RecessBP2.PackageMetaData'
+[2018.12.07-14.08.50:976][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP2.RecessBP2:EventGraph.K2Node_Event_2' ref from Metadata '/Game/RecessBP2.PackageMetaData'
+[2018.12.07-14.08.50:976][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP2.SKEL_RecessBP2_C:ReceiveTick' ref from Metadata '/Game/RecessBP2.PackageMetaData'
+[2018.12.07-14.08.50:976][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP2.SKEL_RecessBP2_C:ReceiveBeginPlay' ref from Metadata '/Game/RecessBP2.PackageMetaData'
+[2018.12.07-14.08.50:976][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP2.SKEL_RecessBP2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/RecessBP2.PackageMetaData'
+[2018.12.07-14.08.50:976][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP2.SKEL_RecessBP2_C:Box' ref from Metadata '/Game/RecessBP2.PackageMetaData'
+[2018.12.07-14.08.50:976][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP2.SKEL_RecessBP2_C:UserConstructionScript' ref from Metadata '/Game/RecessBP2.PackageMetaData'
+[2018.12.07-14.08.50:976][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP2.RecessBP2_C:Box' ref from Metadata '/Game/RecessBP2.PackageMetaData'
+[2018.12.07-14.08.50:976][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP2.RecessBP2_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/RecessBP2.PackageMetaData'
+[2018.12.07-14.08.50:976][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP2.RecessBP2_C:UserConstructionScript' ref from Metadata '/Game/RecessBP2.PackageMetaData'
+[2018.12.07-14.08.50:983][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP.RecessBP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/RecessBP.PackageMetaData'
+[2018.12.07-14.08.50:983][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP.SKEL_RecessBP_C' ref from Metadata '/Game/RecessBP.PackageMetaData'
+[2018.12.07-14.08.50:983][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP.RecessBP_C' ref from Metadata '/Game/RecessBP.PackageMetaData'
+[2018.12.07-14.08.50:983][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP.RecessBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/RecessBP.PackageMetaData'
+[2018.12.07-14.08.50:983][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP.RecessBP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/RecessBP.PackageMetaData'
+[2018.12.07-14.08.50:983][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP.SKEL_RecessBP_C:ReceiveTick' ref from Metadata '/Game/RecessBP.PackageMetaData'
+[2018.12.07-14.08.50:983][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP.SKEL_RecessBP_C:ReceiveBeginPlay' ref from Metadata '/Game/RecessBP.PackageMetaData'
+[2018.12.07-14.08.50:983][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP.SKEL_RecessBP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/RecessBP.PackageMetaData'
+[2018.12.07-14.08.50:983][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP.SKEL_RecessBP_C:Box' ref from Metadata '/Game/RecessBP.PackageMetaData'
+[2018.12.07-14.08.50:983][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP.SKEL_RecessBP_C:UserConstructionScript' ref from Metadata '/Game/RecessBP.PackageMetaData'
+[2018.12.07-14.08.50:983][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP.RecessBP_C:Box' ref from Metadata '/Game/RecessBP.PackageMetaData'
+[2018.12.07-14.08.50:983][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP.RecessBP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/RecessBP.PackageMetaData'
+[2018.12.07-14.08.50:983][793]LogMetaData: Removing '/Game/ThirdPersonBP/RecessBP.RecessBP_C:UserConstructionScript' ref from Metadata '/Game/RecessBP.PackageMetaData'
+[2018.12.07-14.08.51:060][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ClassroomBP" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/ClassroomBP.uasset" SILENT=true
+[2018.12.07-14.08.51:093][793]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/ClassroomBPB284EC0B4D052BD77DAFC4888B564AB8.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/ClassroomBP.uasset'
+[2018.12.07-14.08.51:104][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ClassroomBP" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ClassroomBP.uasset" SILENT=true
+[2018.12.07-14.08.51:137][793]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/ClassroomBPEA3DE1F7459B78C5339B63B66DD554A9.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ClassroomBP.uasset'
+[2018.12.07-14.08.51:181][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ClassroomBP2" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/ClassroomBP2.uasset" SILENT=true
+[2018.12.07-14.08.51:214][793]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/ClassroomBP2F77C59584CD1BE37BAB9168147751340.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/ClassroomBP2.uasset'
+[2018.12.07-14.08.51:225][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ClassroomBP2" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ClassroomBP2.uasset" SILENT=true
+[2018.12.07-14.08.51:261][793]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/ClassroomBP2DD4C70384B540CF8AA3040A5C3545F63.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ClassroomBP2.uasset'
+[2018.12.07-14.08.51:306][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Door_Blueprint" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/Door_Blueprint.uasset" SILENT=true
+[2018.12.07-14.08.51:338][793]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Door_Blueprint27C7A70A4EBBD01330CA8F83688CD8EF.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/Door_Blueprint.uasset'
+[2018.12.07-14.08.51:350][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Door_Blueprint" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Door_Blueprint.uasset" SILENT=true
+[2018.12.07-14.08.51:383][793]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Door_Blueprint443AB01347D8850F071902A6A87BB647.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Door_Blueprint.uasset'
+[2018.12.07-14.08.51:429][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/R2C" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/R2C.uasset" SILENT=true
+[2018.12.07-14.08.51:461][793]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/R2CF84E416B469ADFFEA7DA22A7D251B56D.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/R2C.uasset'
+[2018.12.07-14.08.51:470][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/R2C" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/R2C.uasset" SILENT=true
+[2018.12.07-14.08.51:494][793]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/R2C8F3122804A945860D85BEF866B308E21.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/R2C.uasset'
+[2018.12.07-14.08.51:539][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/R2CL" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/R2CL.uasset" SILENT=true
+[2018.12.07-14.08.51:571][793]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/R2CL8113B23940AD5A94A72E8E923223AC61.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/R2CL.uasset'
+[2018.12.07-14.08.51:581][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/R2CL" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/R2CL.uasset" SILENT=true
+[2018.12.07-14.08.51:613][793]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/R2CLBAA5FCE14BA4F0879AB8BFB9AF7B4A0F.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/R2CL.uasset'
+[2018.12.07-14.08.51:657][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/RecessBP2" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/RecessBP2.uasset" SILENT=true
+[2018.12.07-14.08.51:688][793]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/RecessBP21255B59F4D7ADBBAC91C958677ADDAB4.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/RecessBP2.uasset'
+[2018.12.07-14.08.51:698][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RecessBP2" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/RecessBP2.uasset" SILENT=true
+[2018.12.07-14.08.51:731][793]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/RecessBP2B20E94F34797DC396C9C638F3B983DAE.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/RecessBP2.uasset'
+[2018.12.07-14.08.51:777][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/RecessBP" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/RecessBP.uasset" SILENT=true
+[2018.12.07-14.08.51:807][793]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/RecessBPD65405B04D305BED61158FB8219045CF.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/RecessBP.uasset'
+[2018.12.07-14.08.51:818][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RecessBP" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/RecessBP.uasset" SILENT=true
+[2018.12.07-14.08.51:850][793]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/RecessBPFC1A1D0F458441F97B84868764115528.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/RecessBP.uasset'
+[2018.12.07-14.08.55:606][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Recess" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Recess.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.07-14.08.55:747][886]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Recess3037DE994D72F320F126C5888F6212D6.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Recess.umap'
+[2018.12.07-14.08.55:813][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Recess_BuiltData" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Recess_BuiltData.uasset" SILENT=true
+[2018.12.07-14.08.55:930][886]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Recess_BuiltData495676ED437493B671A1B19DAD98D542.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Recess_BuiltData.uasset'
+[2018.12.07-14.09.02:213][ 47]LogEditorViewport: Clicking on Actor (LMB): ReggieC6_C (ReggieC6)
+[2018.12.07-14.09.34:548][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.09.38:041][930]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-14.09.38:113][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-14.09.38:113][930]PIE: New page: PIE session: Recess (Dec 7, 2018, 4:09:38 AM)
+[2018.12.07-14.09.38:113][930]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Recess
+[2018.12.07-14.09.38:120][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006707s)
+[2018.12.07-14.09.38:121][930]LogAIModule: Creating AISystem for world Recess
+[2018.12.07-14.09.38:122][930]LogPlayLevel: PIE: World Init took: (0.002096s)
+[2018.12.07-14.09.38:123][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Recess.Recess to /Game/Maps/UEDPIE_0_Recess.Recess (0.009204s)
+[2018.12.07-14.09.38:174][930]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-14.09.39:188][930]LogInit: FAudioDevice initialized.
+[2018.12.07-14.09.39:223][930]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-14.09.39:233][930]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Recess.Recess up for play (max tick rate 60) at 2018.12.07-09.09.39
+[2018.12.07-14.09.39:235][930]LogWorld: Bringing up level for play took: 0.009974
+[2018.12.07-14.09.39:248][930]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Recess 1.01
+[2018.12.07-14.09.49:496][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.09.59:156][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.09.59:231][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-14.09.59:276][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.09.59:330][463]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.12.07-14.10.02:193][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Fence2)
+[2018.12.07-14.10.03:002][551]LogEditorViewport: Clicking on Actor (LMB): ZackC6_C (ZackC6)
+[2018.12.07-14.10.05:930][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-14.10.07:115][654]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.07-14.10.07:146][654]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Dialogue/reggie_c6/ZackC6.ZackC6
+[2018.12.07-14.19.17:088][ 72]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Recess' took 0.049
+[2018.12.07-14.19.17:098][ 72]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Dialogue/reggie_c6/ZackC6] ([1] browsable assets)...
+[2018.12.07-14.19.17:191][ 72]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Dialogue/reggie_c6/ZackC6.ZackC6]
+[2018.12.07-14.19.17:191][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Dialogue/reggie_c6/ZackC6]
+[2018.12.07-14.19.17:268][ 72]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/ZackC6_Auto1690826D54753273B5D2E58AE887AD367.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Dialogue/reggie_c6/ZackC6_Auto1.uasset'
+[2018.12.07-14.19.17:273][ 72]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/ClassroomBP] ([1] browsable assets)...
+[2018.12.07-14.19.17:273][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/ClassroomBP]
+[2018.12.07-14.19.17:316][ 72]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/ClassroomBP_Auto1F3ABE6F6485667A803BF799016684E58.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/ClassroomBP_Auto1.uasset'
+[2018.12.07-14.19.17:318][ 72]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/ClassroomBP2] ([1] browsable assets)...
+[2018.12.07-14.19.17:318][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/ClassroomBP2]
+[2018.12.07-14.19.17:361][ 72]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/ClassroomBP2_Auto154AFE0434E95E4298F50A895E538C141.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/ClassroomBP2_Auto1.uasset'
+[2018.12.07-14.19.17:363][ 72]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Door_Blueprint] ([1] browsable assets)...
+[2018.12.07-14.19.17:364][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Door_Blueprint]
+[2018.12.07-14.19.17:406][ 72]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Door_Blueprint_Auto1AA2002234C8874CB9B233B83A70C2544.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/Door_Blueprint_Auto1.uasset'
+[2018.12.07-14.19.17:408][ 72]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/R2C] ([1] browsable assets)...
+[2018.12.07-14.19.17:408][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/R2C]
+[2018.12.07-14.19.17:454][ 72]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/R2C_Auto1B2C2BC00433BE79093B7B89BF818B540.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/R2C_Auto1.uasset'
+[2018.12.07-14.19.17:456][ 72]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/R2CL] ([1] browsable assets)...
+[2018.12.07-14.19.17:456][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/R2CL]
+[2018.12.07-14.19.17:499][ 72]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/R2CL_Auto17DB8E2DF475F1DEBF4BFEDA1EE2EC8E3.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/R2CL_Auto1.uasset'
+[2018.12.07-14.19.17:546][ 72]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/RecessBP2] ([1] browsable assets)...
+[2018.12.07-14.19.17:546][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/RecessBP2]
+[2018.12.07-14.19.17:586][ 72]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/RecessBP2_Auto1F190E54B4D69A757F9C80C8E8F3625BD.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/RecessBP2_Auto1.uasset'
+[2018.12.07-14.19.17:589][ 72]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/RecessBP] ([1] browsable assets)...
+[2018.12.07-14.19.17:589][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/RecessBP]
+[2018.12.07-14.19.17:630][ 72]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/RecessBP_Auto1531550EC485512BB14704BB7BCE3EC02.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/RecessBP_Auto1.uasset'
+[2018.12.07-14.19.17:632][ 72]LogFileHelpers: Auto-saving content packages took 0.544
+[2018.12.07-14.21.12:716][ 39]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Player.Player
+[2018.12.07-14.23.01:271][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.23.42:187][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.25.40:386][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.26.01:365][520]BlueprintLog: New page: Compile Player
+[2018.12.07-14.26.02:960][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Player" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/Blueprints/Player.uasset" SILENT=true
+[2018.12.07-14.26.03:103][590]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/PlayerCB85B3F14D71B0410F76668B28107436.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/Blueprints/Player.uasset'
+[2018.12.07-14.29.00:188][666]BlueprintLog: New page: Compile ZackC6
+[2018.12.07-14.29.02:969][803]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/ZackC615DE74594ED7E2EE4EC9489AEEDEB4FC.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/Blueprints/Dialogue/reggie_c6/ZackC6.uasset'
+[2018.12.07-14.29.08:732][  9]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-14.29.08:810][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-14.29.08:810][  9]PIE: New page: PIE session: Recess (Dec 7, 2018, 4:29:08 AM)
+[2018.12.07-14.29.08:811][  9]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Recess
+[2018.12.07-14.29.08:819][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008160s)
+[2018.12.07-14.29.08:820][  9]LogAIModule: Creating AISystem for world Recess
+[2018.12.07-14.29.08:821][  9]LogPlayLevel: PIE: World Init took: (0.002135s)
+[2018.12.07-14.29.08:822][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Recess.Recess to /Game/Maps/UEDPIE_0_Recess.Recess (0.010613s)
+[2018.12.07-14.29.08:876][  9]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-14.29.09:892][  9]LogInit: FAudioDevice initialized.
+[2018.12.07-14.29.09:928][  9]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-14.29.09:935][  9]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Recess.Recess up for play (max tick rate 60) at 2018.12.07-09.29.09
+[2018.12.07-14.29.09:937][  9]LogWorld: Bringing up level for play took: 0.008108
+[2018.12.07-14.29.09:953][  9]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Recess 1.714
+[2018.12.07-14.29.22:343][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.29.22:417][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-14.29.22:468][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.29.22:523][355]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.12.07-14.29.26:864][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.30.50:144][377]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Recess_Auto2BCED399749574140DA39F2807E3D59D0.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Autosaves/Game/Maps/Recess_Auto2.umap'
+[2018.12.07-14.30.50:150][377]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Recess' took 0.175
+[2018.12.07-14.30.50:150][377]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.175
+[2018.12.07-14.30.50:154][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Player] ([1] browsable assets)...
+[2018.12.07-14.30.50:214][377]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Player.Player]
+[2018.12.07-14.30.50:214][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Player]
+[2018.12.07-14.30.50:346][377]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Player_Auto2D3A957594906BF5C0DE06C88D4F8473F.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Player_Auto2.uasset'
+[2018.12.07-14.30.50:349][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Dialogue/reggie_c6/ZackC6] ([1] browsable assets)...
+[2018.12.07-14.30.50:390][377]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Dialogue/reggie_c6/ZackC6.ZackC6]
+[2018.12.07-14.30.50:390][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Dialogue/reggie_c6/ZackC6]
+[2018.12.07-14.30.50:458][377]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/ZackC6_Auto2D77F89224C0CE36E6843A286596FE504.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Dialogue/reggie_c6/ZackC6_Auto2.uasset'
+[2018.12.07-14.30.50:461][377]LogFileHelpers: Auto-saving content packages took 0.307
+[2018.12.07-14.31.11:183][591]BlueprintLog: New page: Compile Player
+[2018.12.07-14.31.12:174][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Player" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/Blueprints/Player.uasset" SILENT=true
+[2018.12.07-14.31.12:306][622]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/PlayerAC3E490C47EDFA1A457C38978C2E97F0.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/Blueprints/Player.uasset'
+[2018.12.07-14.31.14:595][727]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-14.31.14:666][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-14.31.14:666][727]PIE: New page: PIE session: Recess (Dec 7, 2018, 4:31:14 AM)
+[2018.12.07-14.31.14:666][727]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Recess
+[2018.12.07-14.31.14:676][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009804s)
+[2018.12.07-14.31.14:678][727]LogAIModule: Creating AISystem for world Recess
+[2018.12.07-14.31.14:678][727]LogPlayLevel: PIE: World Init took: (0.001564s)
+[2018.12.07-14.31.14:678][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Recess.Recess to /Game/Maps/UEDPIE_0_Recess.Recess (0.011719s)
+[2018.12.07-14.31.14:733][727]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-14.31.15:748][727]LogInit: FAudioDevice initialized.
+[2018.12.07-14.31.15:779][727]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-14.31.15:789][727]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Recess.Recess up for play (max tick rate 60) at 2018.12.07-09.31.15
+[2018.12.07-14.31.15:791][727]LogWorld: Bringing up level for play took: 0.009901
+[2018.12.07-14.31.15:805][727]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Recess 1.567
+[2018.12.07-14.31.21:135][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.31.21:205][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-14.31.21:259][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.31.21:315][885]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.12.07-14.31.21:998][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.31.22:200][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Recess" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Recess.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.07-14.31.22:349][905]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/RecessD338F0B949BD879AD0DBE096BB4D1716.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Recess.umap'
+[2018.12.07-14.31.22:437][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Recess_BuiltData" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Recess_BuiltData.uasset" SILENT=true
+[2018.12.07-14.31.22:570][905]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Recess_BuiltData7C8B94DD44CD152FC7A7ECBA7CAB6999.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Recess_BuiltData.uasset'
+[2018.12.07-14.31.23:598][933]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-14.31.23:668][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-14.31.23:668][933]PIE: New page: PIE session: Recess (Dec 7, 2018, 4:31:23 AM)
+[2018.12.07-14.31.23:668][933]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Recess
+[2018.12.07-14.31.23:676][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007581s)
+[2018.12.07-14.31.23:678][933]LogAIModule: Creating AISystem for world Recess
+[2018.12.07-14.31.23:678][933]LogPlayLevel: PIE: World Init took: (0.001710s)
+[2018.12.07-14.31.23:678][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Recess.Recess to /Game/Maps/UEDPIE_0_Recess.Recess (0.009588s)
+[2018.12.07-14.31.23:736][933]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-14.31.24:751][933]LogInit: FAudioDevice initialized.
+[2018.12.07-14.31.24:785][933]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-14.31.24:791][933]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Recess.Recess up for play (max tick rate 60) at 2018.12.07-09.31.24
+[2018.12.07-14.31.24:793][933]LogWorld: Bringing up level for play took: 0.007257
+[2018.12.07-14.31.24:809][933]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Recess 0.57
+[2018.12.07-14.31.36:759][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.31.36:828][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-14.31.36:880][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.31.36:936][265]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.12.07-14.33.36:907][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.34.07:970][200]BlueprintLog: New page: Compile Player
+[2018.12.07-14.34.09:188][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Player" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/Blueprints/Player.uasset" SILENT=true
+[2018.12.07-14.34.09:319][247]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/PlayerAB097323478E52F280F1DBBE87BE7845.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/Blueprints/Player.uasset'
+[2018.12.07-14.34.13:032][421]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-14.34.13:101][421]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-14.34.13:101][421]PIE: New page: PIE session: Recess (Dec 7, 2018, 4:34:13 AM)
+[2018.12.07-14.34.13:101][421]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Recess
+[2018.12.07-14.34.13:108][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007320s)
+[2018.12.07-14.34.13:109][421]LogAIModule: Creating AISystem for world Recess
+[2018.12.07-14.34.13:109][421]LogPlayLevel: PIE: World Init took: (0.001884s)
+[2018.12.07-14.34.13:109][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Recess.Recess to /Game/Maps/UEDPIE_0_Recess.Recess (0.009486s)
+[2018.12.07-14.34.13:164][421]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-14.34.14:181][421]LogInit: FAudioDevice initialized.
+[2018.12.07-14.34.14:215][421]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-14.34.14:223][421]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Recess.Recess up for play (max tick rate 60) at 2018.12.07-09.34.14
+[2018.12.07-14.34.14:225][421]LogWorld: Bringing up level for play took: 0.009171
+[2018.12.07-14.34.14:239][421]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Recess 2
+[2018.12.07-14.34.26:996][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.34.27:069][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-14.34.27:122][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.34.27:184][771]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.12.07-14.34.28:025][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.34.49:771][ 61]BlueprintLog: New page: Compile Player
+[2018.12.07-14.34.50:911][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Player" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/Blueprints/Player.uasset" SILENT=true
+[2018.12.07-14.34.51:039][103]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/PlayerEA639246479EE7084E1C11BC6427CB31.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/Blueprints/Player.uasset'
+[2018.12.07-14.34.54:466][271]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-14.34.54:535][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.07-14.34.54:535][271]PIE: New page: PIE session: Recess (Dec 7, 2018, 4:34:54 AM)
+[2018.12.07-14.34.54:535][271]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Recess
+[2018.12.07-14.34.54:542][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007109s)
+[2018.12.07-14.34.54:543][271]LogAIModule: Creating AISystem for world Recess
+[2018.12.07-14.34.54:544][271]LogPlayLevel: PIE: World Init took: (0.001597s)
+[2018.12.07-14.34.54:544][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Recess.Recess to /Game/Maps/UEDPIE_0_Recess.Recess (0.009116s)
+[2018.12.07-14.34.54:599][271]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-14.34.55:613][271]LogInit: FAudioDevice initialized.
+[2018.12.07-14.34.55:650][271]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-14.34.55:659][271]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Recess.Recess up for play (max tick rate 60) at 2018.12.07-09.34.55
+[2018.12.07-14.34.55:661][271]LogWorld: Bringing up level for play took: 0.009897
+[2018.12.07-14.34.55:676][271]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Recess 1.438
+[2018.12.07-14.34.58:467][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.34.58:547][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-14.34.58:612][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.34.58:670][354]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2018.12.07-14.34.59:364][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.36.55:197][256]BlueprintLog: New page: Compile Player
+[2018.12.07-14.36.58:021][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Player" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/Blueprints/Player.uasset" SILENT=true
+[2018.12.07-14.36.58:176][398]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Player181AAA18418ECB978141CDA411E10E8A.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/Blueprints/Player.uasset'
+[2018.12.07-14.37.55:191][806]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.07-14.38.36:798][963]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.07-14.38.39:315][108]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.07-14.39.46:695][946]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Dialogue/zack_c6/DialogueZack6.DialogueZack6
+[2018.12.07-14.45.07:792][833]BlueprintLog: New page: Compile DialogueZack6
+[2018.12.07-14.45.09:531][902]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/DialogueZack6C772F3D0489AE68811BD6F8EA62014F5.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/Blueprints/Dialogue/zack_c6/DialogueZack6.uasset'
+[2018.12.07-14.45.16:035][244]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.07-14.45.16:126][244]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.07-14.45.16:137][244]LogPlayLevel: [PlayLevel] Compiling ZackC6 before play...
+[2018.12.07-14.45.16:394][244]LogPlayLevel: PlayLevel: Blueprint regeneration took 267 ms (1 blueprints)
+[2018.12.07-14.45.16:394][244]PIE: New page: PIE session: Recess (Dec 7, 2018, 4:45:16 AM)
+[2018.12.07-14.45.16:394][244]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Recess
+[2018.12.07-14.45.16:401][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007036s)
+[2018.12.07-14.45.16:406][244]LogAIModule: Creating AISystem for world Recess
+[2018.12.07-14.45.16:406][244]LogPlayLevel: PIE: World Init took: (0.004117s)
+[2018.12.07-14.45.16:406][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Recess.Recess to /Game/Maps/UEDPIE_0_Recess.Recess (0.011901s)
+[2018.12.07-14.45.16:454][244]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.07-14.45.17:471][244]LogInit: FAudioDevice initialized.
+[2018.12.07-14.45.17:505][244]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.12.07-14.45.17:512][244]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Recess.Recess up for play (max tick rate 60) at 2018.12.07-09.45.17
+[2018.12.07-14.45.17:515][244]LogWorld: Bringing up level for play took: 0.008618
+[2018.12.07-14.45.17:529][244]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Recess 1.291
+[2018.12.07-14.45.42:089][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.45.42:162][900]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.07-14.45.42:210][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-14.45.42:265][901]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2018.12.07-14.45.45:749][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.46.11:376][500]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Recess_Auto327D1F06F447155EB4BBC13BDFE704910.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Autosaves/Game/Maps/Recess_Auto3.umap'
+[2018.12.07-14.46.11:381][500]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Recess' took 0.168
+[2018.12.07-14.46.11:381][500]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.168
+[2018.12.07-14.46.11:384][500]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Dialogue/reggie_c6/ZackC6] ([1] browsable assets)...
+[2018.12.07-14.46.11:457][500]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Dialogue/reggie_c6/ZackC6.ZackC6]
+[2018.12.07-14.46.11:457][500]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Dialogue/reggie_c6/ZackC6]
+[2018.12.07-14.46.11:530][500]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/ZackC6_Auto380708BFB412D57FE5751B29ABA2F80FD.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Dialogue/reggie_c6/ZackC6_Auto3.uasset'
+[2018.12.07-14.46.11:532][500]LogFileHelpers: Auto-saving content packages took 0.149
+[2018.12.07-14.48.40:758][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.49.49:663][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.51.23:337][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.52.37:224][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-14.55.01:058][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Recess" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Recess.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.07-14.55.01:222][108]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/RecessBAEF9BD44438AD042206F5A806E59A6A.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Recess.umap'
+[2018.12.07-14.55.01:303][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Recess_BuiltData" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Recess_BuiltData.uasset" SILENT=true
+[2018.12.07-14.55.01:433][108]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Recess_BuiltDataD90050A8431E208A0B5B0A9F94CE8EB5.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/Maps/Recess_BuiltData.uasset'
+[2018.12.07-14.55.23:033][145]LogSlate: Window 'Save Content' being destroyed
+[2018.12.07-14.55.23:147][145]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/ZackC60860486048DA3F9AF600E69384196C9D.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/Blueprints/Dialogue/reggie_c6/ZackC6.uasset'
+[2018.12.07-14.55.23:158][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ClassroomBP" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/ClassroomBP.uasset" SILENT=true
+[2018.12.07-14.55.23:200][145]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/ClassroomBP1EA34D104F314F81F6C160A0AA8F6B24.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/ClassroomBP.uasset'
+[2018.12.07-14.55.23:217][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ClassroomBP2" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/ClassroomBP2.uasset" SILENT=true
+[2018.12.07-14.55.23:261][145]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/ClassroomBP2994EEC0442BE88271E6E1086DE7A279F.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/ClassroomBP2.uasset'
+[2018.12.07-14.55.23:281][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Door_Blueprint" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/Door_Blueprint.uasset" SILENT=true
+[2018.12.07-14.55.23:326][145]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/Door_BlueprintFC6A06624B965BCB2CE62CAECE212D14.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/Door_Blueprint.uasset'
+[2018.12.07-14.55.23:344][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/R2C" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/R2C.uasset" SILENT=true
+[2018.12.07-14.55.23:388][145]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/R2C37CBB9FC4E866B0DECCCA6A42FD1DF75.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/R2C.uasset'
+[2018.12.07-14.55.23:406][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/R2CL" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/R2CL.uasset" SILENT=true
+[2018.12.07-14.55.23:450][145]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/R2CL0CEEB1C6469492157C795997805E74B6.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/R2CL.uasset'
+[2018.12.07-14.55.23:465][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/RecessBP" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/RecessBP.uasset" SILENT=true
+[2018.12.07-14.55.23:508][145]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/RecessBPFC09C86D4B3853CF58DDC3B29E4E9C1E.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/RecessBP.uasset'
+[2018.12.07-14.55.23:522][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/RecessBP2" FILE="../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/RecessBP2.uasset" SILENT=true
+[2018.12.07-14.55.23:566][145]LogSavePackage: Moving '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Saved/RecessBP20614230A4A37CBD0B4CB16A24FB24D29.tmp' to '../../../../../../Users/William Yao/Desktop/Empathy/MyProject2/Content/ThirdPersonBP/RecessBP2.uasset'
+[2018.12.07-14.55.23:776][145]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.07-14.55.23:893][145]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.07-14.55.24:027][145]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.07-14.55.24:292][145]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.07-14.55.24:407][145]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.12.07-14.55.24:498][145]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2018.12.07-14.55.24:813][146]Cmd: QUIT_EDITOR
+[2018.12.07-14.55.26:064][146]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.07-14.55.26:087][146]LogExit: Preparing to exit.
+[2018.12.07-14.55.26:472][146]LogDirectoryWatcher: A directory notification failed for 'C:/Users/William Yao/Desktop/Empathy/MyProject2/Content/', and we were unable to create a new request.
+[2018.12.07-14.55.26:574][146]LogExit: Editor shut down
+[2018.12.07-14.55.26:575][146]LogExit: Transaction tracking system shut down
+[2018.12.07-14.55.27:152][146]LogExit: Object subsystem successfully closed.
+[2018.12.07-14.55.27:182][146]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.07-14.55.27:232][146]LogD3D11RHI: Shutdown
+[2018.12.07-14.55.27:232][146]LogD3D11RHI: CleanupD3DDevice
+[2018.12.07-14.55.27:253][146]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.07-14.55.27:308][146]LogModuleManager: Shutting down and abandoning module SequencerWidgets (622)
+[2018.12.07-14.55.27:308][146]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (620)
+[2018.12.07-14.55.27:308][146]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (618)
+[2018.12.07-14.55.27:308][146]LogModuleManager: Shutting down and abandoning module Voice (616)
+[2018.12.07-14.55.27:308][146]LogModuleManager: Shutting down and abandoning module WorldBrowser (614)
+[2018.12.07-14.55.27:308][146]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2018.12.07-14.55.27:308][146]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.12.07-14.55.27:308][146]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.12.07-14.55.27:308][146]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.12.07-14.55.27:312][146]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.12.07-14.55.27:312][146]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.12.07-14.55.27:312][146]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.12.07-14.55.27:312][146]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.12.07-14.55.27:313][146]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.12.07-14.55.27:313][146]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.12.07-14.55.27:313][146]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.12.07-14.55.27:313][146]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.12.07-14.55.27:313][146]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.12.07-14.55.27:313][146]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.12.07-14.55.27:313][146]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.12.07-14.55.27:313][146]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.12.07-14.55.27:313][146]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.12.07-14.55.27:313][146]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.12.07-14.55.27:313][146]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.12.07-14.55.27:313][146]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.12.07-14.55.27:313][146]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.12.07-14.55.27:313][146]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.12.07-14.55.27:313][146]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.12.07-14.55.27:314][146]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.12.07-14.55.27:314][146]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.12.07-14.55.27:314][146]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.12.07-14.55.27:314][146]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.12.07-14.55.27:314][146]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.12.07-14.55.27:314][146]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.12.07-14.55.27:314][146]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.12.07-14.55.27:314][146]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.12.07-14.55.27:314][146]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.12.07-14.55.27:314][146]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.12.07-14.55.27:314][146]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.12.07-14.55.27:314][146]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.12.07-14.55.27:314][146]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.12.07-14.55.27:314][146]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.12.07-14.55.27:314][146]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.12.07-14.55.27:315][146]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.12.07-14.55.27:315][146]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.12.07-14.55.27:315][146]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.12.07-14.55.27:315][146]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.12.07-14.55.27:315][146]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.12.07-14.55.27:315][146]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.12.07-14.55.27:315][146]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.12.07-14.55.27:315][146]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.12.07-14.55.27:315][146]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.12.07-14.55.27:316][146]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.12.07-14.55.27:316][146]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.12.07-14.55.27:316][146]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.12.07-14.55.27:316][146]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.12.07-14.55.27:316][146]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.12.07-14.55.27:316][146]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.12.07-14.55.28:477][146]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.12.07-14.55.28:477][146]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.12.07-14.55.28:477][146]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.12.07-14.55.28:477][146]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.12.07-14.55.28:477][146]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.12.07-14.55.28:477][146]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.12.07-14.55.28:477][146]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.12.07-14.55.28:477][146]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.12.07-14.55.28:477][146]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.12.07-14.55.28:477][146]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.12.07-14.55.28:477][146]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.12.07-14.55.28:477][146]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.12.07-14.55.28:477][146]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.12.07-14.55.28:477][146]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.12.07-14.55.28:477][146]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.12.07-14.55.28:478][146]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.12.07-14.55.28:478][146]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.12.07-14.55.28:478][146]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.12.07-14.55.28:478][146]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.12.07-14.55.28:478][146]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.12.07-14.55.28:478][146]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.12.07-14.55.28:478][146]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.12.07-14.55.28:533][146]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.12.07-14.55.28:533][146]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.12.07-14.55.28:533][146]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.12.07-14.55.28:533][146]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.12.07-14.55.28:533][146]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.12.07-14.55.28:533][146]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.12.07-14.55.28:534][146]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.12.07-14.55.28:534][146]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.12.07-14.55.28:534][146]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.12.07-14.55.28:534][146]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.12.07-14.55.28:546][146]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.12.07-14.55.28:546][146]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.12.07-14.55.28:547][146]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.12.07-14.55.28:547][146]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.12.07-14.55.28:547][146]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.12.07-14.55.28:547][146]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.12.07-14.55.28:548][146]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.12.07-14.55.28:548][146]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.12.07-14.55.28:548][146]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.12.07-14.55.28:548][146]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.12.07-14.55.28:548][146]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.12.07-14.55.28:548][146]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.12.07-14.55.28:548][146]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.12.07-14.55.28:548][146]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.12.07-14.55.28:548][146]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.12.07-14.55.28:548][146]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.12.07-14.55.28:548][146]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.12.07-14.55.28:549][146]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.12.07-14.55.28:549][146]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.12.07-14.55.28:549][146]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.12.07-14.55.28:549][146]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.12.07-14.55.28:549][146]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.07-14.55.28:750][146]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.07-14.55.28:750][146]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.07-14.55.28:750][146]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.07-14.55.28:751][146]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.07-14.55.28:751][146]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.07-14.55.28:751][146]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.07-14.55.28:751][146]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.07-14.55.28:751][146]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.07-14.55.28:751][146]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.07-14.55.28:751][146]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.07-14.55.28:751][146]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.07-14.55.28:751][146]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.07-14.55.28:751][146]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.07-14.55.28:751][146]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.07-14.55.28:751][146]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.12.07-14.55.28:751][146]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.12.07-14.55.28:751][146]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.12.07-14.55.28:751][146]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.12.07-14.55.28:755][146]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.12.07-14.55.28:755][146]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.12.07-14.55.28:755][146]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.12.07-14.55.28:755][146]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.12.07-14.55.28:755][146]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.12.07-14.55.28:755][146]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.07-14.55.28:755][146]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.07-14.55.28:755][146]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.07-14.55.28:755][146]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.07-14.55.28:756][146]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.07-14.55.28:756][146]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.12.07-14.55.28:756][146]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.12.07-14.55.28:756][146]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.07-14.55.28:756][146]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.07-14.55.28:756][146]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.07-14.55.28:756][146]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.07-14.55.28:756][146]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.07-14.55.28:756][146]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.07-14.55.28:757][146]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.07-14.55.28:757][146]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.07-14.55.28:757][146]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.07-14.55.28:757][146]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.07-14.55.28:757][146]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.07-14.55.28:757][146]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.07-14.55.28:757][146]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.07-14.55.28:757][146]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.07-14.55.28:757][146]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.07-14.55.28:757][146]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.12.07-14.55.28:757][146]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.12.07-14.55.28:757][146]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.12.07-14.55.28:757][146]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.12.07-14.55.28:757][146]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.12.07-14.55.28:757][146]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.12.07-14.55.28:757][146]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.12.07-14.55.28:757][146]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.12.07-14.55.28:757][146]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.12.07-14.55.28:757][146]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.12.07-14.55.28:757][146]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.12.07-14.55.28:758][146]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.12.07-14.55.28:758][146]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.07-14.55.28:758][146]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.07-14.55.28:858][146]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.07-14.55.28:959][146]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.07-14.55.28:959][146]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.07-14.55.28:959][146]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.07-14.55.28:959][146]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.07-14.55.28:959][146]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.07-14.55.28:959][146]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.07-14.55.28:959][146]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.07-14.55.28:961][146]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.07-14.55.28:961][146]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.07-14.55.28:961][146]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.07-14.55.28:961][146]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.07-14.55.28:962][146]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.07-14.55.28:965][146]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.07-14.55.28:965][146]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.07-14.55.28:965][146]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.07-14.55.28:965][146]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.07-14.55.28:965][146]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.07-14.55.28:965][146]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.12.07-14.55.28:966][146]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.12.07-14.55.28:972][146]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.12.07-14.55.28:972][146]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.12.07-14.55.28:972][146]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.12.07-14.55.28:972][146]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.12.07-14.55.28:972][146]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.12.07-14.55.28:972][146]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.12.07-14.55.28:972][146]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.12.07-14.55.28:973][146]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.12.07-14.55.28:973][146]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.12.07-14.55.28:973][146]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.12.07-14.55.28:973][146]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.12.07-14.55.28:973][146]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.12.07-14.55.28:973][146]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.12.07-14.55.28:973][146]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.12.07-14.55.28:973][146]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.12.07-14.55.28:973][146]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.12.07-14.55.28:973][146]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.12.07-14.55.28:973][146]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.12.07-14.55.28:973][146]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.12.07-14.55.28:973][146]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.12.07-14.55.28:976][146]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.12.07-14.55.28:976][146]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.12.07-14.55.28:976][146]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.12.07-14.55.28:976][146]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.12.07-14.55.28:976][146]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.12.07-14.55.28:976][146]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.12.07-14.55.28:976][146]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.12.07-14.55.28:976][146]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.12.07-14.55.28:976][146]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.12.07-14.55.28:977][146]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.12.07-14.55.28:977][146]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.12.07-14.55.28:977][146]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.12.07-14.55.28:977][146]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.12.07-14.55.28:977][146]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.12.07-14.55.28:977][146]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.12.07-14.55.28:977][146]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.12.07-14.55.28:977][146]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.12.07-14.55.28:978][146]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.12.07-14.55.29:070][146]LogDerivedDataCache: Shutdown
+[2018.12.07-14.55.29:070][146]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.12.07-14.55.29:071][146]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.12.07-14.55.29:071][146]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.12.07-14.55.29:071][146]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.12.07-14.55.29:071][146]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.12.07-14.55.29:071][146]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.12.07-14.55.29:071][146]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.12.07-14.55.29:071][146]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.12.07-14.55.29:071][146]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.12.07-14.55.29:071][146]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.12.07-14.55.29:071][146]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.12.07-14.55.29:071][146]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.12.07-14.55.29:072][146]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.12.07-14.55.29:072][146]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.12.07-14.55.29:072][146]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.12.07-14.55.29:072][146]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.12.07-14.55.29:072][146]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.12.07-14.55.29:072][146]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.12.07-14.55.29:072][146]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.12.07-14.55.29:072][146]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.12.07-14.55.29:072][146]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.12.07-14.55.29:072][146]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.12.07-14.55.29:072][146]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.12.07-14.55.29:081][146]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.12.07-14.55.29:081][146]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.12.07-14.55.29:089][146]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.12.07-14.55.29:089][146]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.12.07-14.55.29:129][146]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.12.07-14.55.29:129][146]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.12.07-14.55.29:129][146]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.12.07-14.55.29:129][146]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.12.07-14.55.29:129][146]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.12.07-14.55.29:130][146]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.12.07-14.55.29:130][146]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.12.07-14.55.29:130][146]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.12.07-14.55.29:130][146]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.12.07-14.55.29:130][146]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.12.07-14.55.29:130][146]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.12.07-14.55.29:130][146]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.12.07-14.55.29:130][146]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.12.07-14.55.29:130][146]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.12.07-14.55.29:130][146]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.12.07-14.55.29:130][146]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.12.07-14.55.29:130][146]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.12.07-14.55.29:130][146]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.12.07-14.55.29:131][146]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.12.07-14.55.29:131][146]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.12.07-14.55.29:148][146]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.12.07-14.55.29:148][146]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2018.12.07-14.55.29:148][146]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B73332F-42E7-FC18-E9FB-25BAD35EA070%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=405400a541db2f760c84dc8b77df561c%7C45412b4e3f22449ea2a8335a7fcd742e%7Cfaaf490f-f607-4dc0-8561-26192c106526&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.07-14.55.29:148][146]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9B73332F-42E7-FC18-E9FB-25BAD35EA070%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=405400a541db2f760c84dc8b77df561c%7C45412b4e3f22449ea2a8335a7fcd742e%7Cfaaf490f-f607-4dc0-8561-26192c106526&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.07-14.55.29:152][146]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.12.07-14.55.29:154][146]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.12.07-14.55.29:154][146]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.12.07-14.55.29:154][146]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.12.07-14.55.29:154][146]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.12.07-14.55.29:154][146]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.12.07-14.55.29:154][146]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.12.07-14.55.29:154][146]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.12.07-14.55.29:154][146]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.12.07-14.55.29:154][146]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.12.07-14.55.29:155][146]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.07-14.55.29:155][146]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.12.07-14.55.29:155][146]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.07-14.55.29:155][146]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.07-14.55.29:155][146]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.07-14.55.29:155][146]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.07-14.55.29:155][146]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.07-14.55.29:156][146]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.07-14.55.29:156][146]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.07-14.55.29:158][146]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.07-14.55.29:158][146]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.07-14.55.29:158][146]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.07-14.55.29:158][146]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.07-14.55.29:158][146]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.07-14.55.29:158][146]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.07-14.55.29:158][146]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.07-14.55.29:159][146]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.07-14.55.29:159][146]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.07-14.55.29:159][146]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.07-14.55.29:159][146]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.07-14.55.29:162][146]LogExit: Exiting.
+[2018.12.07-14.55.29:204][146]Log file closed, 12/07/18 09:55:29
